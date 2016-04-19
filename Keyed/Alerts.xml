@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-	<ClickToJumpToProblem>Clica para ir ao problema</ClickToJumpToProblem>
+  <ClickToJumpToProblem>Clica para ir ao problema</ClickToJumpToProblem>
 
-  
-  
   <NeedSawmill>Requer serra</NeedSawmill>
   <NeedSawmillDesc>Precisas de algum tipo de serra para cortar a madeira em tábuas.\n\nConstrói uma SERRA DE MÃO ou uma MOTOSERRA.</NeedSawmillDesc>
 
