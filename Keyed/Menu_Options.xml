@@ -1,41 +1,41 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
   <!-- Audiovisuals -->
   <Audiovisuals>Audiovisuais</Audiovisuals>
   <GameVolume>Volume do jogo</GameVolume>
-  <MusicVolume>volume da música</MusicVolume>
-  <GraphicsQuality>Qualidade gráfica</GraphicsQuality>
-  <GraphicsQualityNormal>Normal</GraphicsQualityNormal>
-  <GraphicsQualityGreat>Ótima</GraphicsQualityGreat>
-  
-  
+  <MusicVolume>Volume da música</MusicVolume>
+  <Antialiasing>Anti-aliasing</Antialiasing>
+
   <!-- Gameplay -->
   <EdgeScreenScroll>Mover câmara se rato tiver na margem do ecrã</EdgeScreenScroll>
+  <PauseOnLoad>Pausar ao carregar jogo</PauseOnLoad>
   <CustomCursor>Cursor customizado</CustomCursor>
+  <KeyboardConfig>Configuração do teclado</KeyboardConfig>
   <ChooseLanguage>Escolher idioma</ChooseLanguage>
-  <AdaptiveTutor>Tutorial adaptável</AdaptiveTutor>
+  <AdaptiveTutor>Tutor adaptável</AdaptiveTutor>
   <ResetAdaptiveTutor>Resetar tutorial adaptável</ResetAdaptiveTutor>
-  <AdaptiveTutorIsReset>Tutorial adaptável resetado. Ele irá agora te ensinar do início.</AdaptiveTutorIsReset>
+  <AdaptiveTutorIsReset>Tutorial adaptável reiniciado. Ele irá agora ensinar-te do zero.</AdaptiveTutorIsReset>
   <RunInBackground>Executar em segundo plano</RunInBackground>
   <DevelopmentMode>Modo de desenvolvimento</DevelopmentMode>
-  <LogDeepProfileData>Catalogar dados de perfil</LogDeepProfileData>
+  <ResetModsConfigOnCrash>Auto-reset da configuração dos mods se crashar</ResetModsConfigOnCrash>
+  <LogVerbose>Log detalhado</LogVerbose>
   <OpenSaveGameDataFolder>Abrir pasta dos saves</OpenSaveGameDataFolder>
-  <NamesYouWantToSee>Sobrenomes que queiras que aparecam em certas personagens ou Biografias pelo jogo:</NamesYouWantToSee>
+  <NamesYouWantToSee>Sobrenomes que queiras que apareçam em certas personagens ou Biografias pelo jogo:</NamesYouWantToSee>
   <ChangeStoryteller>Escolhe o narrador</ChangeStoryteller>
+  <AutosaveInterval>Intervalo de autosave</AutosaveInterval>
+  <TemperatureMode>Modo de temperatura</TemperatureMode>
+  <ShowRealtimeClock>Mostrar relógio em tempo real</ShowRealtimeClock>
+  <MaxPermadeathAutosaveIntervalInfo>Intervalo máximo do autosave em modo morte permanente é de {0} dias.</MaxPermadeathAutosaveIntervalInfo>
 
   <!-- Resolution -->
   <Resolution>Resolução</Resolution>
-  <Fullscreen>Fullscreen</Fullscreen>
-  <CurrentRes>Atualmente {0}</CurrentRes>
-  <ChooseResolution>Escolhe a resolução</ChooseResolution>
+  <Fullscreen>Ecrã inteiro</Fullscreen>
 
-  
   <!-- Privacy-->
   <Privacy>Privacidade</Privacy>
   <UserName>Nome de utilizador</UserName>
   <ChooseHistoryUploadPref>Pref. de envio de dados de jogabilidade</ChooseHistoryUploadPref>
-  <CurrentHistoryUploadPref>Atualmente {0}</CurrentHistoryUploadPref>
-  <AboutHistoryUpload>Dados de jobabilidade dos utilizadores ajuda os criadores a equilibrar o jogo. Se aceitares, a tua informação será enviada a cada {0} dias no jogo(e em alguns casos como no fim do jogo) para o servidor da RimWorld e depois analizados. Dados enviados consiste apenas de estatísticas e registo de histórias relacionados com o jogo - nenhuma informação pessoal é enviada, excepto o nome de utilizador, ou seja é completamente anónimo.</AboutHistoryUpload>
-    
+  <AboutHistoryUpload>Dados de jogabilidade dos utilizadores ajuda os criadores a equilibrar o jogo. Se aceitares, a tua informação será enviada a cada {0} dias no jogo(e em alguns casos como no fim do jogo) para o servidor da RimWorld e depois analizados. Dados enviados consistem apenas em estatísticas e registo de histórias relacionados com o jogo - nenhuma informação pessoal é enviada, excepto o nome de utilizador, ou seja é completamente anónimo.</AboutHistoryUpload>
+  
 </LanguageData>

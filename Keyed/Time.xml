@@ -6,31 +6,31 @@
   <LetterMinute>m</LetterMinute>
   <LetterSecond>s</LetterSecond>
   
-  <DaysLower>days</DaysLower>
-  <SecondsLower>seconds</SecondsLower>
+  <DaysLower>dias</DaysLower>
+  <SecondsLower>segundos</SecondsLower>
 
-  <SeasonSpring>spring</SeasonSpring>
-  <SeasonSummer>summer</SeasonSummer>
-  <SeasonFall>fall</SeasonFall>
-  <SeasonWinter>winter</SeasonWinter>
+  <SeasonSpring>primavera</SeasonSpring>
+  <SeasonSummer>verão</SeasonSummer>
+  <SeasonFall>outono</SeasonFall>
+  <SeasonWinter>inverno</SeasonWinter>
 
-  <Born>Born: {0}</Born>
-  <AgeChronological>Chronological age: {0} years, {1} seasons, {2} days</AgeChronological>
-  <AgeBiological>Biological age: {0} years, {1} seasons, {2} days</AgeBiological>
+  <Born>Nascido: {0}</Born>
+  <AgeChronological>Idade cronológica: {0} anos, {1} estações, {2} dias</AgeChronological>
+  <AgeBiological>Idade biológica: {0} anos, {1} estações, {2} dias</AgeBiological>
 
   <!-- Date periods -->
-	<Period1Year>1 year</Period1Year>
-  <PeriodYears>{0} years</PeriodYears>
-  <Period1Season>1 season</Period1Season>
-  <PeriodSeasons>{0} seasons</PeriodSeasons>
-  <Period1Day>1 day</Period1Day>
-  <PeriodDays>{0} days</PeriodDays>
-  <Period1Hour>1 hour</Period1Hour>
-  <PeriodHours>{0} hours</PeriodHours>
+	<Period1Year>1 ano</Period1Year>
+  <PeriodYears>{0} anos</PeriodYears>
+  <Period1Season>1 estação</Period1Season>
+  <PeriodSeasons>{0} estações</PeriodSeasons>
+  <Period1Day>1 dia</Period1Day>
+  <PeriodDays>{0} dias</PeriodDays>
+  <Period1Hour>1 hora</Period1Hour>
+  <PeriodHours>{0} horas</PeriodHours>
 
   <!-- Misc -->
-  <Started>Started</Started>
-  <Lasted>Lasted</Lasted>
-  <OccurredTimeAgo>occurred {0} ago</OccurredTimeAgo>
+  <Started>Começou</Started>
+  <Lasted>Durou</Lasted>
+  <OccurredTimeAgo>ocorreu há {0}</OccurredTimeAgo>
   
 </LanguageData>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-    <Ocean.label>ocean</Ocean.label>
+    <Ocean.label>oceano</Ocean.label>
     <Ocean.description>Open ocean. Great for fish - not so great for you.</Ocean.description>
     
     <TemperateForest.label>temperate forest</TemperateForest.label>

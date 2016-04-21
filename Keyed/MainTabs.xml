@@ -2,58 +2,58 @@
 <LanguageData>
 
   <!-- Work tab -->
-  <ManualPriorities>Manual priorities</ManualPriorities>
-  <HigherPriority>higher priority</HigherPriority>
-  <LowerPriority>lower priority</LowerPriority>
-  <RelevantSkills>Relevant skills: {0}\nAverage of relevant skills: {1} / {2}</RelevantSkills>
-  <ClickToJumpTo>Click to jump to:</ClickToJumpTo>
-  <CannotDoThisWork>{0} cannot do this kind of work.</CannotDoThisWork>
-  <NoneBrackets>(none)</NoneBrackets>
-  <IncapableOfWorkTypeBecauseOfCapacities>This colonist is not able to do any work of this type because of his health condition.</IncapableOfWorkTypeBecauseOfCapacities>
+  <ManualPriorities>Prioridades manuais</ManualPriorities>
+  <HigherPriority>maior prioridade</HigherPriority>
+  <LowerPriority>menor prioridade</LowerPriority>
+  <RelevantSkills>Habilidades relevantes: {0}\nMédia das habilidades relevantes: {1}/{2}</RelevantSkills>
+  <ClickToJumpTo>Clica para ires para:</ClickToJumpTo>
+  <CannotDoThisWork>{0} não pode fazer este tipo de trabalho.</CannotDoThisWork>
+  <NoneBrackets>(nenhum)</NoneBrackets>
+  <IncapableOfWorkTypeBecauseOfCapacities>Este colono não é capaz de fazer nenhum tipo de trabalho deste tipo devido à sua condição médica.</IncapableOfWorkTypeBecauseOfCapacities>
   <EmergencyWorkMarker>E</EmergencyWorkMarker>
   
   <!-- Outfits tab -->
-  <CurrentOutfit>Current outfit</CurrentOutfit>
-  <ManageOutfits>Manage outfits</ManageOutfits>
-  <ClearForcedApparel>Clear forced</ClearForcedApparel>
-  <ApparelForcedLower>forced</ApparelForcedLower>
-  <ForcedApparel>Forced apparel</ForcedApparel>
-  <OutfitEdit>Edit...</OutfitEdit>
+  <CurrentOutfit>Roupa atual</CurrentOutfit>
+  <ManageOutfits>Gerir roupas</ManageOutfits>
+  <ClearForcedApparel>Limpar roupa obrigatória</ClearForcedApparel>
+  <ApparelForcedLower>roupa obrigatória</ApparelForcedLower>
+  <ForcedApparel>Roupa obrigatória</ForcedApparel>
+  <OutfitEdit>Editar...</OutfitEdit>
   
   <!-- Restrictions tab -->
-  <Copy>Copy</Copy>
-  <Paste>Paste</Paste>
-  <AllowedArea>Allowed area</AllowedArea>
+  <Copy>Copiar</Copy>
+  <Paste>Colar</Paste>
+  <AllowedArea>Área permitida</AllowedArea>
   
   <!-- Animals tab -->
-  <Master>Master</Master>
-  <PregnantIconDesc>Pregnant ({0} / {1})</PregnantIconDesc>
+  <Master>Mester</Master>
+  <PregnantIconDesc>Grávida ({0} / {1})</PregnantIconDesc>
   
   <!-- Factions tab -->
-  <Hostile>Hostile</Hostile>
-  <HostileTo>Enemy of {0}</HostileTo>
-  <CurrentGoodwill>Current goodwill with this faction.</CurrentGoodwill>
+  <Hostile>Hostil</Hostile>
+  <HostileTo>Inimigo de {0}</HostileTo>
+  <CurrentGoodwill>Boa vontade actual com esta facção.</CurrentGoodwill>
   
   <!-- Statistics tab -->
-  <Playtime>Play time</Playtime>
-  <Storyteller>Storyteller</Storyteller>
-  <ColonyWealthTotal>Colony wealth</ColonyWealthTotal>
-  <ColonyWealthItems>Colony wealth (items)</ColonyWealthItems>
-  <ColonyWealthBuildings>Colony wealth (buildings)</ColonyWealthBuildings>
-  <NumThreatBigs>Major threats</NumThreatBigs>
-  <NumEnemyRaids>Enemy raids</NumEnemyRaids>
-  <DamageTaken>Damage taken</DamageTaken>
-  <ColonistsKilled>Colonists killed</ColonistsKilled>
-  <ColonistsLaunched>Colonists launched into space</ColonistsLaunched>
+  <Playtime>Tempo de jogo</Playtime>
+  <Storyteller>Narrador</Storyteller>
+  <ColonyWealthTotal>Riqueza da colónia</ColonyWealthTotal>
+  <ColonyWealthItems>Riqueza da colónia (itens)</ColonyWealthItems>
+  <ColonyWealthBuildings>Riqueza da colónia (construções)</ColonyWealthBuildings>
+  <NumThreatBigs>Principais ameaças</NumThreatBigs>
+  <NumEnemyRaids>Ataques inimigos</NumEnemyRaids>
+  <DamageTaken>Dano levado</DamageTaken>
+  <ColonistsKilled>Colonos mortos</ColonistsKilled>
+  <ColonistsLaunched>Colonos lançados para o espaço</ColonistsLaunched>
 
   <!-- History tab -->
-  <SelectGraph>Select graph</SelectGraph>
-  <Last30Days>Last 30 days</Last30Days>
-  <Last100Days>Last 100 days</Last100Days>
-  <Last300Days>Last 300 days</Last300Days>
-  <AllDays>All</AllDays>
-  <Day>Day</Day>
-  <Value>Value</Value>
-  <External>External</External>
+  <SelectGraph>Seleccionar gráfico</SelectGraph>
+  <Last30Days>Últimos 30 dias</Last30Days>
+  <Last100Days>Últimos 100 dias</Last100Days>
+  <Last300Days>Últimos 300 dias</Last300Days>
+  <AllDays>Todos</AllDays>
+  <Day>Dia</Day>
+  <Value>Valor</Value>
+  <External>Externo</External>
   
 </LanguageData>

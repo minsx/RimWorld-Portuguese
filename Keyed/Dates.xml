@@ -1,41 +1,14 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
   <ClockTime>Tempo</ClockTime>
   <ClockDate>Data</ClockDate>
   <ClockYear>Ano</ClockYear>
-  <DateReadoutTip>Nº Dias passados desde a tua chegada: {0}\nHá {1} dias em cada mês.</DateReadoutTip>
+  <DateReadoutTip>Nº Dias passados desde a tua chegada: {0}\nHá {1} dias em cada estação do ano.\nEstação do ano actual: {2}</DateReadoutTip>
 
-
-
-  <FullDate>{0} {1}, ano {2}</FullDate>
-  <MonthFullDate>{0} {1}</MonthFullDate>
+  <FullDate>{0} de {1}, {2}</FullDate>
+	<DateReadout>{0} de {1}, {2}</DateReadout>
+  <SeasonFullDate>{0} de {1}</SeasonFullDate>
+  <WholeYear>Todo o ano</WholeYear>
   
-  <MonthFullJanuary>Janeiro</MonthFullJanuary>
-  <MonthFullFebruary>Fevereiro</MonthFullFebruary>
-  <MonthFullMarch>Março</MonthFullMarch>
-  <MonthFullApril>Abril</MonthFullApril>
-  <MonthFullMay>Maio</MonthFullMay>
-  <MonthFullJune>Junho</MonthFullJune>
-  <MonthFullJuly>Julho</MonthFullJuly>
-  <MonthFullAugust>Agosto</MonthFullAugust>
-  <MonthFullSeptember>Setembro</MonthFullSeptember>
-  <MonthFullOctober>Outubro</MonthFullOctober>
-  <MonthFullNovember>Novembro</MonthFullNovember>
-  <MonthFullDecember>Dezembro</MonthFullDecember>
-
-  <MonthShortJanuary>Jan</MonthShortJanuary>
-  <MonthShortFebruary>Fev</MonthShortFebruary>
-  <MonthShortMarch>Mar</MonthShortMarch>
-  <MonthShortApril>Abr</MonthShortApril>
-  <MonthShortMay>Maio</MonthShortMay>
-  <MonthShortJune>Jun</MonthShortJune>
-  <MonthShortJuly>Jul</MonthShortJuly>
-  <MonthShortAugust>Ago</MonthShortAugust>
-  <MonthShortSeptember>Set</MonthShortSeptember>
-  <MonthShortOctober>Oto</MonthShortOctober>
-  <MonthShortNovember>Nov</MonthShortNovember>
-  <MonthShortDecember>Dec</MonthShortDecember>
-    
-    
 </LanguageData>

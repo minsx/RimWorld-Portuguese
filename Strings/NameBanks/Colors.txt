@@ -2,11 +2,11 @@
 //Simple colors only, no mauve and puce
 
 
-vermelho
-azul
-verde
-roxo
-preto
-branco
-cinza
-laranja
+red
+blue
+green
+purple
+black
+white
+gray
+orange

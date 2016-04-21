@@ -1,10 +1,10 @@
 ﻿
 
-red
-black
-gray
-ash
+vermelho
+preto
+cinzento
+cinza
 
-dark
-shadow
-night
+escuro
+sombra
+noite
