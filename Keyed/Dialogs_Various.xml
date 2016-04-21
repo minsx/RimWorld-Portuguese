@@ -34,13 +34,13 @@
   
   <!-- Save/load -->
   <SaveGameButton>Guardar jogo</SaveGameButton>
-  <OverwriteButton>Substituir jogo guardado</OverwriteButton>
+  <OverwriteButton>Sobrescrever</OverwriteButton>
   <LoadGameButton>Carregar jogo</LoadGameButton>
-  <ConfirmDelete>Apagar definitivamente {0}?</ConfirmDelete>
-  <DeleteThisSavegame>Apagar este jogo guardado.</DeleteThisSavegame>
-  <SavedAs>Guardado como {0}.</SavedAs>
-  <NeedAName>Por favor insere um nome.</NeedAName>
-  <LoadingLongEvent>A carregar</LoadingLongEvent>
+  <ConfirmDelete>Apagar de certeza {0}?</ConfirmDelete>
+  <DeleteThisSavegame>Apaga este jogo gravado.</DeleteThisSavegame>
+  <SavedAs>Guardar como {0}.</SavedAs>
+  <NeedAName>Por favor, introduz um nome.</NeedAName>
+  <LoadingLongEvent>A carregar...</LoadingLongEvent>
   <SavingLongEvent>A guardar</SavingLongEvent>
   <PermadeathModeSaveSuffix>(morte permanente)</PermadeathModeSaveSuffix>
   <SaveIsFromDifferentGameVersion>Está a ser executada a versão {0} do jogo mas o que estás a carregar é da versão {1}, que é uma versão totalmente diferente.\n\nTentar carregar estes dados provavelmente não irá funcionar.</SaveIsFromDifferentGameVersion>
@@ -52,12 +52,12 @@
   <!-- Colony naming-->
   <NameColonyMessage>Parece que vais ficar aqui por um longo tempo. {0} está a sugerir que dês um nome a colónia.\n\nO que deverá ser chamada?</NameColonyMessage>
   <ColonyGainsName>A colónia é agora conhecida como {0}.</ColonyGainsName>
-  <ColonyNameIsInvalid>Esse nome para a colónia é inválido.</ColonyNameIsInvalid>
+  <ColonyNameIsInvalid>Esse nome para a colónia não é válido.</ColonyNameIsInvalid>
 
   <!-- Renaming -->
   <NameIsInvalid>Por favor insere um nome válido.</NameIsInvalid>
   <NameIsInUse>Esse nome já está a ser usado.</NameIsInUse>
-  <ZoneGainsName>A zona é agora chamada {0}.</ZoneGainsName>
+  <ZoneGainsName>A zona tem agora o nome de {0}.</ZoneGainsName>
   
   <!-- Pawn naming -->
   <PawnGainsName>A alcunha do colono agora é {0}.</PawnGainsName>
@@ -90,7 +90,7 @@
   <MapTemperatureDangerWarning>Aviso: Vais pousar num ambiente gélido. Pode ser difícil ou quase impossível de sobreviver. Se não queres enfrentar um desafio extremo, escolhe outro local ou estação do ano.</MapTemperatureDangerWarning>
   <MapSizePerformanceWarning>Aviso: Mapas maiores podem diminuir o desempenho.</MapSizePerformanceWarning>
   <MapSize>Tamanho do mapa</MapSize>
-  <MapSizeDesc>{0}x{0} ({1} células)</MapSizeDesc>
+  <MapSizeDesc>{0}x{0} ({1} quadrantes)</MapSizeDesc>
   <MapSizeSmall>Pequeno</MapSizeSmall>
   <MapSizeMedium>Médio</MapSizeMedium>
   <MapSizeLarge>Grande</MapSizeLarge>
@@ -111,101 +111,101 @@
   <CurrentlyHave>Actualmente tem</CurrentlyHave>
   <CountingProducts>A contar</CountingProducts>
   <Infinite>Infinito</Infinite>
-  <MinimumSkillLevel>Min {0} skill</MinimumSkillLevel>
+  <MinimumSkillLevel>Habilidade min de {0}</MinimumSkillLevel>
   
-  <RecipeCannotHaveTargetCount>(This recipe cannot have a target count because it has multiple or unpredictable products.)</RecipeCannotHaveTargetCount>
-  <WorkAmount>Work amount</WorkAmount>
-  <MinimumSkills>Minimum skills:</MinimumSkills>
-  <BillRequires>Requires {0} {1}</BillRequires>
-  <BillRequiresNutrition>Requires {0} nutrition</BillRequiresNutrition>
-  <BillRequiresMayVary>Note: small-volume ingredients like gold require 20x as much.</BillRequiresMayVary>
-  <ThisIsSmallVolume>This is a small-volume ingredient. This means that each 'unit' is only 1/20 as much as a normal-volume ingredient. So, to fill the same ingredient requirement, you'll need 20x as much as usual.</ThisIsSmallVolume>
-  <UsableIngredients>ingredients</UsableIngredients>
-  <DoXTimes>Do X times</DoXTimes>
-  <DoUntilYouHaveX>Do until you have X</DoUntilYouHaveX>
-  <DoForever>Do forever</DoForever>
-  <BillRepeatTargetCountShort>To {0}</BillRepeatTargetCountShort>
-  <BillStoreMode_DropOnFloor>Drop on floor</BillStoreMode_DropOnFloor>
-  <BillStoreMode_BestStockpile>Take to best stockpile</BillStoreMode_BestStockpile>
-  <BillStoreMode_NearestStockpileAnyPriority>Take to nearest stockpile</BillStoreMode_NearestStockpileAnyPriority>
+  <RecipeCannotHaveTargetCount>(Esta receita não pode ter contagem alvo porque tem uma produção múltipla ou imprevisível.)</RecipeCannotHaveTargetCount>
+  <WorkAmount>Quantidade de trabalho</WorkAmount>
+  <MinimumSkills>Habilidades mínimas:</MinimumSkills>
+  <BillRequires>Requer {0} {1}</BillRequires>
+  <BillRequiresNutrition>Requer {0} nutrição</BillRequiresNutrition>
+  <BillRequiresMayVary>Nota: ingredientes de pequeno volume como o ouro exigem 20x mais.</BillRequiresMayVary>
+  <ThisIsSmallVolume>Este é um ingrediente de pequeno volume. Isso significa que cada 'unidade' é 1/20 de um ingrediente normal. Portanto, para teres a quantidade necessária, precisas de 20x mais que o normal.</ThisIsSmallVolume>
+  <UsableIngredients>ingredientes</UsableIngredients>
+  <DoXTimes>Fazer X vezes</DoXTimes>
+  <DoUntilYouHaveX>Fazer até ter X</DoUntilYouHaveX>
+  <DoForever>Fazer eternamente</DoForever>
+  <BillRepeatTargetCountShort>Até {0}</BillRepeatTargetCountShort>
+  <BillStoreMode_DropOnFloor>Deixar no chão</BillStoreMode_DropOnFloor>
+  <BillStoreMode_BestStockpile>Levar para melhor zona de stock</BillStoreMode_BestStockpile>
+  <BillStoreMode_NearestStockpileAnyPriority>Levar para a zona de stock mais próxima</BillStoreMode_NearestStockpileAnyPriority>
   
   <!-- Info card -->
-  <Damage>Damage</Damage>
-  <Accuracy>Accuracy</Accuracy>
-  <BurstShotCount>Burst shot count</BurstShotCount>
-  <WarmupTime>Warmup</WarmupTime>
-  <MeleeWarmupTime>Melee warmup</MeleeWarmupTime>
+  <Damage>Dano</Damage>
+  <Accuracy>Precisão</Accuracy>
+  <BurstShotCount>Tiro contínuo</BurstShotCount>
+  <WarmupTime>Aquecimento</WarmupTime>
+  <MeleeWarmupTime>Preparação corpo-a-corpo</MeleeWarmupTime>
   <CooldownTime>Cooldown</CooldownTime>
-  <BurstShotFireRate>Fire rate</BurstShotFireRate>
-  <Range>Range</Range>
-  <GrowsWild>Grows wild</GrowsWild>
-  <Harvestable>Harvestable</Harvestable>
-  <LimitedLifespan>Limited lifespan</LimitedLifespan>
-  <GrowingTime>Growing time</GrowingTime>
-  <GrowingTimeDesc>Plants only grow for part of the day, and only when lit. This statistic measures the time the plant needs to spend actually growing to reach full size. The actual real growing time will generally be about twice as long. Low temperatures also slow plant growth.</GrowingTimeDesc>
-  <Days>days</Days>
-  <FertilityRequirement>Fertility requirement</FertilityRequirement>
-  <LightRequirement>Light requirement</LightRequirement>
-  <Attributes>Attributes</Attributes>
-  <LifeSpan>Lifespan</LifeSpan>
-  <Nutrition>Nutrition</Nutrition>
-  <Joy>Joy</Joy>
-  <FoodQuality>Food quality</FoodQuality>
-  <WalkSpeedProperty>Walk speed</WalkSpeedProperty>
-  <MinFoodQuality>Min. food quality</MinFoodQuality>
-  <Diet>Diet</Diet>
-  <RecruitDifficulty>Recruit difficulty</RecruitDifficulty>
-  <MarketValue>Base price</MarketValue>
-  <Covers>Covers</Covers>
-  <BodyPartEfficiency>Body part efficiency</BodyPartEfficiency>
-  <MoodChange>Mood change</MoodChange>
-  <Wildness>Wildness</Wildness>
-  <WildnessExplanation>Wilder creatures are naturally more difficult to tame, train, and handle.</WildnessExplanation>
-  <AnimalFilthRate>Animal filth rate</AnimalFilthRate>
-  <AnimalFilthRateExplanation>Animals produce filth when moving around on constructed floors. This is the average amount of such filth produced per {0} cells walked by this creature.\n\nLarger or less pet-like animals produce more filth.</AnimalFilthRateExplanation>
-  <TimeRecordsCategory>Time</TimeRecordsCategory>
-  <MiscRecordsCategory>Misc</MiscRecordsCategory>
+  <BurstShotFireRate>Frequência de Tiro</BurstShotFireRate>
+  <Range>Alcance</Range>
+  <GrowsWild>Cresce selvagem</GrowsWild>
+  <Harvestable>Colhível</Harvestable>
+  <LimitedLifespan>Tempo de vida limitado</LimitedLifespan>
+  <GrowingTime>Tempo de crescimento</GrowingTime>
+  <GrowingTimeDesc>Plantas só crescem parte do dia, e só iluminadas. Esta estatística mede o tempo que a planta precisa a crescer para chegar ao tamanho total. O tempo real de crescimento é normalmente o dobro. Baixas temperaturas também diminuem o crescimento da planta.</GrowingTimeDesc>
+  <Days>dias</Days>
+  <FertilityRequirement>Requisito de fertilidade</FertilityRequirement>
+  <LightRequirement>Requisito de luz</LightRequirement>
+  <Attributes>Atributos</Attributes>
+  <LifeSpan>tempo de vida</LifeSpan>
+  <Nutrition>Nutrição</Nutrition>
+  <Joy>Alegria</Joy>
+  <FoodQuality>qualidade da comida</FoodQuality>
+  <WalkSpeedProperty>Velocidade a pé</WalkSpeedProperty>
+  <MinFoodQuality>Qualidade mínima de comida</MinFoodQuality>
+  <Diet>Dieta</Diet>
+  <RecruitDifficulty>Dificuldade de recrutamento</RecruitDifficulty>
+  <MarketValue>Preço base</MarketValue>
+  <Covers>Protege</Covers>
+  <BodyPartEfficiency>eficiência da parte do corpo</BodyPartEfficiency>
+  <MoodChange>Mudança de humor</MoodChange>
+  <Wildness>Selvagem</Wildness>
+  <WildnessExplanation>Criaturas selvagens são naturalmente mais difíceis de domesticar, treinar e lidar.</WildnessExplanation>
+  <AnimalFilthRate>Taxa de lixo animal</AnimalFilthRate>
+  <AnimalFilthRateExplanation>Animais produzem lixo quando andam pelos pisos construídos. Isto é a media de lixo produzido por {0} quadrados caminhados por esta criatura.\n\nAnimais maiores ou menos 'domésticos' produzem mais lixo.</AnimalFilthRateExplanation>
+  <TimeRecordsCategory>Tempo</TimeRecordsCategory>
+  <MiscRecordsCategory>Etc</MiscRecordsCategory>
 
   <!-- Trade -->
-  <DragToTrade>Drag number\nto trade</DragToTrade>
-  <BuyPriceDesc>Price you pay to buy this.</BuyPriceDesc>
-  <SellPriceDesc>Price you receive for selling this.</SellPriceDesc>
-  <PriceTypeDesc>For this item, this price is {0}.</PriceTypeDesc>
-  <ColonyCount>How many of this item the colony has ready to trade.\n\nYou can only sell items to orbital traders if they are outdoors and near an orbital trade beacon.</ColonyCount>
-  <TraderCount>How many of this item the trader has to trade.</TraderCount>
-  <AcceptButton>Accept</AcceptButton>
-  <ResetButton>Reset</ResetButton>
-  <CancelButton>Cancel</CancelButton>
-  <YourTradeableSilver>Your tradeable silver: {0}</YourTradeableSilver>
-	<YourTradeableSilverTip>You can only trade with silver that is near an orbital trade beacon and not under a roof.</YourTradeableSilverTip>
-  <TraderHasNoMore>Trader has no more.</TraderHasNoMore>
-  <ColonyHasNoMore>No more to sell.</ColonyHasNoMore>
-  <TraderWillNotTrade>Trader is not willing to trade in this item.</TraderWillNotTrade>
-  <NegotiatorTalkingImpaired>Your negotiator {0} cannot talk properly because of poor health.\n\nThis will affect trade prices.\n\nConsider using a healthier negotiator.</NegotiatorTalkingImpaired>
-  <ConfirmTraderShortFunds>Trader has insufficient silver to fully cover this transaction.  Proceed anyways?</ConfirmTraderShortFunds>
-  <SortBy>Sort by</SortBy>
+  <DragToTrade>Arrasta o número\npara trocar</DragToTrade>
+  <BuyPriceDesc>Preço que pagas por isto.</BuyPriceDesc>
+  <SellPriceDesc>Preço que recebes por vender isto.</SellPriceDesc>
+  <PriceTypeDesc>Por este item, o preço é {0}.</PriceTypeDesc>
+  <ColonyCount>Qual a quantidade deste item que a colónia tem pronto para trocar.\n\nSó podes vender itens a comerciantes orbitais se estiverem ao ar livre e perto de um farol de trocas orbital.</ColonyCount>
+  <TraderCount>Quantos deste item o comerciante tem para trocar.</TraderCount>
+  <AcceptButton>Aceitar</AcceptButton>
+  <ResetButton>Resetar</ResetButton>
+  <CancelButton>Cancelar</CancelButton>
+  <YourTradeableSilver>A tua prata negociável: {0}</YourTradeableSilver>
+	<YourTradeableSilverTip>Só podes efectuar trocas com a prata que está perto de um farol de trocas orbital e ao ar livre.</YourTradeableSilverTip>
+  <TraderHasNoMore>O comerciante já não tem mais.</TraderHasNoMore>
+  <ColonyHasNoMore>Não há mais para vender.</ColonyHasNoMore>
+  <TraderWillNotTrade>O comerciante não quer trocar esse item.</TraderWillNotTrade>
+  <NegotiatorTalkingImpaired>O teu negociador {0} não consegue falar adequadamente devida a sua fraca saúde.\n\nIsto afecta os preços do comercio.\n\nConsidera usar um negociador mais saudável.</NegotiatorTalkingImpaired>
+  <ConfirmTraderShortFunds>Comerciante não tem prata suficiente para cobrir totalmente esta transacção. Continuar na mesma?</ConfirmTraderShortFunds>
+  <SortBy>Ordenar por</SortBy>
   
   <!-- Comms -->
-  <SocialSkillIs>Social skill: {0}</SocialSkillIs>
+  <SocialSkillIs>Habilidade social: {0}</SocialSkillIs>
   
   <!--Research-->
-  <ResearchFinished>Research finished: {0}</ResearchFinished>
-  <ResearchScreen>Research Screen</ResearchScreen>
+  <ResearchFinished>Pesquisa terminada: {0}</ResearchFinished>
+  <ResearchScreen>Ecrã de pesquisas</ResearchScreen>
   
   <!--HistoryUpload-->
-  <HistoryUploadMessage>Do you want to upload your gameplay data records to RimWorld server in order to help developers balance the game? If you agree, your data will be uploaded every {0} days (and in some other rare cases like the end of the game). Privacy preferences can be changed later in the options menu.</HistoryUploadMessage>
-  <HistoryUploadMessagePlayerName>Even though history is sent anonymously, you can attach your name.</HistoryUploadMessagePlayerName>
-  <HistoryUploadYes>Allow uploading gameplay data</HistoryUploadYes>
-  <HistoryUploadNo>Do not allow uploading gameplay data</HistoryUploadNo>
-  <HistoryUploadYesOnce>Upload only this time</HistoryUploadYesOnce>
-  <HistoryUploadNoOnce>Do not upload this time, ask me later</HistoryUploadNoOnce>
+  <HistoryUploadMessage>Queres enviar os dados da tua jogabilidade para o servidor da RimWorld para ajudar os criadores a equilibrar o jogo? Se aceitares, os dados serão enviados a cada {0} dias(e em alguns casos raros como no fim do jogo). Preferências de privacidade podem ser mudadas mais tarde no menu de opções.</HistoryUploadMessage>
+  <HistoryUploadMessagePlayerName>Apesar dos dados serem anónimos, podes introduzir o teu nome.</HistoryUploadMessagePlayerName>
+  <HistoryUploadYes>Aceitar o envio dos dados de jogabilidade</HistoryUploadYes>
+  <HistoryUploadNo>Recusar o envio dos dados de jogabilidade</HistoryUploadNo>
+  <HistoryUploadYesOnce>Enviar só desta vez</HistoryUploadYesOnce>
+  <HistoryUploadNoOnce>Não enviar esta vez, perguntar-me mais tarde</HistoryUploadNoOnce>
 	
   <!-- Outfit management -->
-  <Outfit>Outfit</Outfit>
-  <SelectOutfit>Select outfit...</SelectOutfit>
-  <NewOutfit>New outfit</NewOutfit>
-  <DeleteOutfit>Delete outfit...</DeleteOutfit>
-  <OutfitInUse>Outfit is in use by {0}.</OutfitInUse>
-  <NoOutfitSelected>No outfit selected</NoOutfitSelected>
+  <Outfit>Roupa</Outfit>
+  <SelectOutfit>Seleccionar roupa...</SelectOutfit>
+  <NewOutfit>Nova roupa</NewOutfit>
+  <DeleteOutfit>Apagar roupa...</DeleteOutfit>
+  <OutfitInUse>Roupa está em uso por {0}.</OutfitInUse>
+  <NoOutfitSelected>Nenhuma roupa seleccionada</NoOutfitSelected>
   
 </LanguageData>

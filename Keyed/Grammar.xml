@@ -2,9 +2,9 @@
 <LanguageData>
 
   <IndefiniteArticle>a</IndefiniteArticle>
-  <DefiniteArticle>the</DefiniteArticle>
-  <IndefiniteForm>a {0}</IndefiniteForm>
-  <DefiniteForm>the {0}</DefiniteForm>
+  <DefiniteArticle>o</DefiniteArticle>
+  <IndefiniteForm>um {0}</IndefiniteForm>
+  <DefiniteForm>o {0}</DefiniteForm>
 
   <Proits>its</Proits>
   <Prohis>his</Prohis>

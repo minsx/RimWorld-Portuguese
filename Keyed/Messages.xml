@@ -75,51 +75,51 @@
 
   <MessageInvoluntarySleep>{0} teve um esgotamento devido à exaustão extrema.</MessageInvoluntarySleep>
 
-  <MessageMedicalOperationFailureCatastrophic>{0} has failed catastrophically while operating on {1}.</MessageMedicalOperationFailureCatastrophic>
-  <MessageMedicalOperationFailureMinor>{0} has failed in a minor way while operating on {1}.</MessageMedicalOperationFailureMinor>
+  <MessageMedicalOperationFailureCatastrophic>{0} falhou catastroficamente enquanto operava {1}.</MessageMedicalOperationFailureCatastrophic>
+  <MessageMedicalOperationFailureMinor>{0} falhou ligeiramente enquanto operava {1}.</MessageMedicalOperationFailureMinor>
 
-  <MessageMedicalOperationWillAngerFaction>This operation will anger {0}.</MessageMedicalOperationWillAngerFaction>
+  <MessageMedicalOperationWillAngerFaction>Esta operação vai irritar {0}.</MessageMedicalOperationWillAngerFaction>
 
-  <MessagePawnExitMapRelationsGain>Because {0} exited the map healthy, relations with {1} have improved by {2}.</MessagePawnExitMapRelationsGain>
+  <MessagePawnExitMapRelationsGain>Devido a {0} ter saído do mapa saudável, relacionamento com {1} melhorou por {2}.</MessagePawnExitMapRelationsGain>
 
-  <MessageMiscarriedStarvation>{0} has miscarried due to starvation.</MessageMiscarriedStarvation>
-  <MessageMiscarriedPoorHealth>{0} has miscarried due to poor health.</MessageMiscarriedPoorHealth>
-  <MessageGaveBirth>{0} has given birth.</MessageGaveBirth>
+  <MessageMiscarriedStarvation>{0} teve um aborto devido a passar fome.</MessageMiscarriedStarvation>
+  <MessageMiscarriedPoorHealth>{0} teve um aborto devido a problemas de saúde.</MessageMiscarriedPoorHealth>
+  <MessageGaveBirth>{0} teve o bebé.</MessageGaveBirth>
 
-  <MessageNuzzledPawnGaveNameTo>{0} has named {1} {2} after being nuzzled.</MessageNuzzledPawnGaveNameTo>
+  <MessageNuzzledPawnGaveNameTo>{0} deu o nome {1} {2} depois de ser acariciada.</MessageNuzzledPawnGaveNameTo>
 
-  <MessageNoHandlerSkilledEnough>No handler can tame {0} (requires level {1} in {2}, best handler {3} has {4}).</MessageNoHandlerSkilledEnough>
+  <MessageNoHandlerSkilledEnough>Nenhum domador consegue domesticar {0} (requer nível {1} e, {2}, melhor domador {3} tem {4}).</MessageNoHandlerSkilledEnough>
   
-  <MessageEatenByPredator>{0} has been eaten by {1}.</MessageEatenByPredator>
-  <MessageAttackedByPredator>{0} is being attacked by {1}!</MessageAttackedByPredator>
+  <MessageEatenByPredator>{0} foi comido por {1}.</MessageEatenByPredator>
+  <MessageAttackedByPredator>{0} está a ser atacado por {1}!</MessageAttackedByPredator>
   
-  <MessageHiveReproduced>A bug hive has reproduced itself.</MessageHiveReproduced>
+  <MessageHiveReproduced>Uma colmeia de insectos reproduziu-se.</MessageHiveReproduced>
   
-  <MessageTraderCaravanLeaving>The trade caravan from {0} is leaving.</MessageTraderCaravanLeaving>
+  <MessageTraderCaravanLeaving>A caravana de comércio de {0} está de partida.</MessageTraderCaravanLeaving>
   
-  <MessageCantSelectDeadFamilyMember>{0} is dead.</MessageCantSelectDeadFamilyMember>
-  <MessageCantSelectOffMapFamilyMember>{0} is off the map.</MessageCantSelectOffMapFamilyMember>
+  <MessageCantSelectDeadFamilyMember>{0} está morto.</MessageCantSelectDeadFamilyMember>
+  <MessageCantSelectOffMapFamilyMember>{0} está fora do mapa.</MessageCantSelectOffMapFamilyMember>
   
-  <MessageSocialFight>{0} started a social fight with {1}. Reason: {2}.</MessageSocialFight>
+  <MessageSocialFight>{0} começou uma luta social com {1}. Motivo: {2}.</MessageSocialFight>
   
-  <MessageNewMarriageCeremony>Colonists are gathering to celebrate {0} and {1}’s marriage.</MessageNewMarriageCeremony>
-  <MessageMarriageCeremonyStarts>{0} and {1} are beginning their marriage ceremony!</MessageMarriageCeremonyStarts>
-  <MessageMarriageCeremonyCalledOff>The marriage ceremony for {0} and {1} has been called off.</MessageMarriageCeremonyCalledOff>
-  <MessageNewlyMarried>{0} and {1} have married. Colonists are now celebrating the occasion.</MessageNewlyMarried>
-  <MessageMarriageCeremonyAfterPartyFinished>The marriage ceremony for {0} and {1} has finished.</MessageMarriageCeremonyAfterPartyFinished>
+  <MessageNewMarriageCeremony>Colonos estão a reunir-se para celebrar o casamento entre {0} e {1}.</MessageNewMarriageCeremony>
+  <MessageMarriageCeremonyStarts>{0} e {1} estão a começar a sua cerimónia de casamento!</MessageMarriageCeremonyStarts>
+  <MessageMarriageCeremonyCalledOff>A cerimónia de casamento de {0} e {1} foi cancelada.</MessageMarriageCeremonyCalledOff>
+  <MessageNewlyMarried>{0} e {1} casaram. Os colonos estão a celebrar a ocasião.</MessageNewlyMarried>
+  <MessageMarriageCeremonyAfterPartyFinished>A cerimónia de casamente de {0} e {1} terminou.</MessageMarriageCeremonyAfterPartyFinished>
   
-  <MessageNewBondRelation>{0} and {1} have formed a bond.</MessageNewBondRelation>
-  <MessageNewBondRelationNewName>{0} and {1} have formed a bond. {0} has named {1} {2}.</MessageNewBondRelationNewName>
+  <MessageNewBondRelation>{0} e {1} formaram uma ligação.</MessageNewBondRelation>
+  <MessageNewBondRelationNewName>{0} e {1} formaram um laço. {0} trata {1} por {2}.</MessageNewBondRelationNewName>
   
-  <MessageBondedAnimalMentalBreak>{0} has a mental break because of {1}'s death.</MessageBondedAnimalMentalBreak>
-  <MessageNamedBondedAnimalMentalBreak>{0} named {1} has a mental break because of {2}'s death.</MessageNamedBondedAnimalMentalBreak>
-  <MessageBondedAnimalsMentalBreak>{0} animals have a mental break because of {1}'s death.</MessageBondedAnimalsMentalBreak>
+  <MessageBondedAnimalMentalBreak>{0} tem uma quebra mental devido à morte de {1}.</MessageBondedAnimalMentalBreak>
+  <MessageNamedBondedAnimalMentalBreak>{0} {1} tem uma quebra mental devido à morte de {2}.</MessageNamedBondedAnimalMentalBreak>
+  <MessageBondedAnimalsMentalBreak>{0} animais têm uma quebra mental devido à morte de {1}.</MessageBondedAnimalsMentalBreak>
   
-  <MessageSuccessfullyRemovedHediff>{0} has successfully removed {1}'s {2}.</MessageSuccessfullyRemovedHediff>
+  <MessageSuccessfullyRemovedHediff>{0} removeu {2} de {1} com sucesso.</MessageSuccessfullyRemovedHediff>
   
-  <MessageShipChunkDrop>A chunk of a spacecraft has fallen from space and landed nearby.</MessageShipChunkDrop>
+  <MessageShipChunkDrop>Um pedaço da nave espacial saiu do espaço e caiu nas proximidades.</MessageShipChunkDrop>
   
-  <MessagePartyCalledOff>The party has been called off.</MessagePartyCalledOff>
-  <MessagePartyFinished>The party has finished.</MessagePartyFinished>
+  <MessagePartyCalledOff>A festa foi cancelada.</MessagePartyCalledOff>
+  <MessagePartyFinished>A festa terminou.</MessagePartyFinished>
   
 </LanguageData>

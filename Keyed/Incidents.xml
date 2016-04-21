@@ -46,11 +46,11 @@
   <GroupVisitorsArriveTraderInfo>\n\nEles parecem ter alguns items para trocar.</GroupVisitorsArriveTraderInfo>
   <VisitorsLeaving>Visitantes de {0} estão a ir embora.</VisitorsLeaving>
 
-  <LetterLabelWandererJoin>Wanderer joins</LetterLabelWandererJoin>
+  <LetterLabelWandererJoin>Solitário juntou-se</LetterLabelWandererJoin>
   <WandererJoin>Um {0} com o nome NAME chegou e juntou-se a colónia. É um {1}.</WandererJoin>
 
-  <LetterLabelManhunterPackArrived>Manhunter pack</LetterLabelManhunterPackArrived>
-  <ManhunterPackArrived>A pack of man-hunting {0}s have entered the area. They will roam the region, hunting for humanoid flesh.\n\nThey can't pass doors, so if you stay behind walls you should be safe. They won't attack inactive turrets, so turn your turrets off if you want to save them.\n\nThey'll leave the area in a few days.</ManhunterPackArrived>
+  <LetterLabelManhunterPackArrived>Matilha de caçadores de pessoas</LetterLabelManhunterPackArrived>
+  <ManhunterPackArrived>Uma matilha de {0} caçadores de pessoas chegou à área. Eles irão vaguear a região, à caça de carne humana.\n\nEles não passam por portas, portanto fica no interior e estarás a salvo. Eles não atacam torres inactivas, logo desliga as tuas torres se as quiseres salvar.\n\nEles sairão da área em alguns dias.</ManhunterPackArrived>
   
   <!-- Crashed ship part-->
   <MessageAnimalInsanityPulse>A estrutura antiga emitiu um batimento psíquico que tornou os animais por perto malucos.</MessageAnimalInsanityPulse>
@@ -61,7 +61,7 @@
   <PsychicDroneLevelMedium>Médio</PsychicDroneLevelMedium>
   <PsychicDroneLevelHigh>Alto</PsychicDroneLevelHigh>
   <PsychicDroneLevelExtreme>Extremo</PsychicDroneLevelExtreme>
-  <LetterLabelPsychicDroneLevelIncreased>Drone intensifies</LetterLabelPsychicDroneLevelIncreased>
+  <LetterLabelPsychicDroneLevelIncreased>Drone intensifica-se</LetterLabelPsychicDroneLevelIncreased>
   <LetterPsychicDroneLevelIncreased>A parte da nave despenhada está agora a emanar um batimento psíquico muito mais forte. Todos os humanos na área sentem-se perturbados, aterrorizados, e paranóicos.</LetterPsychicDroneLevelIncreased>
   
   <!-- Agent revealed -->
@@ -69,42 +69,42 @@
   <LetterAgentRevealed>{0} revelou-se ser um agente do teu inimigo {1}.\n\nEstão a tentar fugir agora.</LetterAgentRevealed>
 
   <!-- Distant psychic drone -->
-  <LetterLabelPsychicDrone>Psychic drone</LetterLabelPsychicDrone>
+  <LetterLabelPsychicDrone>Drone psíquico</LetterLabelPsychicDrone>
   <LetterIncidentPsychicDrone>Cada colono do sexo {0} retrai-se com dor!\n\nAlgum engenho de ódio está excitante. Está a projectar um batimento psíquico forte em toda a região, numa frequência que só afeta o sexo {0}. Por uns dias, o estado de espírito de algumas pessoas será pior.</LetterIncidentPsychicDrone>
 
-  <LetterLabelPsychicSoothe>Psychic soothe</LetterLabelPsychicSoothe>
-  <LetterIncidentPsychicSoothe>Every colonist of the {0} gender smiles with contentment!\n\nSome distant engine of happiness is stirring. It is projecting a powerful psychic drone over this entire region, on a frequency that only seems to affect the {0} gender. For a few days, some people's mood will be quite a bit better.</LetterIncidentPsychicSoothe>
+  <LetterLabelPsychicSoothe>Alivio psíquico</LetterLabelPsychicSoothe>
+  <LetterIncidentPsychicSoothe>Cada colono do sexo {0} sorri de felicidade!\n\nUm engenho distante de alegria está a agitar-se. Está a projectar uma onda psíquica forte sobre esta região toda, numa frequência que só afecta o sexo {0}. Durante alguns dias, o estado de espírito de algumas pessoas será melhor.</LetterIncidentPsychicSoothe>
 
   <!-- Beavers -->
   <LetterLabelBeaversArrived>Castores!</LetterLabelBeaversArrived>
-  <BeaversArrived>A group of hungry alphabeavers has just arrived.\n\nTry to eliminate them before they decimate every last tree in the region.</BeaversArrived>
+  <BeaversArrived>Um grupo de castores-alfa com fome acabaram de chegar.\n\nTenta eliminá-los antes que eles dizimem cada árvore na região.</BeaversArrived>
   
   <!-- Refugee chased -->
-  <RefugeeChasedInitial>A {1} named {0} calls you from nearby. HECAP is being chased by {2} from {3}!\n\nHECAP begs for safety and offers to join your colony. Biologically, HE is {4} years old.\n\nBe warned - if you accept, you'll have to fight off the {2} on HIS tail.</RefugeeChasedInitial>
+  <RefugeeChasedInitial>Um {1} chamado {0} chama por ti. Ele está a ser perseguido por {2} de {3}!\n\nEle implora por segurança e oferece para se juntar à tua colónia. Biologicamente, ele tem {4} anos.\n\nMas atenção - se aceitares, terás de lutar contra {2}.</RefugeeChasedInitial>
   <RefugeeChasedInitial_Accept>Oferecer segurança</RefugeeChasedInitial_Accept>
   <RefugeeChasedInitial_Reject>Ignorar a mensagem</RefugeeChasedInitial_Reject>
   <RefugeeChasedRejected>{0} grita em pânico pelo pequeno altifalante antes de cortares a transmissão.</RefugeeChasedRejected>
 
   <!-- Self-tame -->
   <LetterLabelAnimalSelfTame>{0} auto-domesticou-se</LetterLabelAnimalSelfTame>
-  <LetterAnimalSelfTame>{0} has become tame.</LetterAnimalSelfTame>
-  <LetterAnimalSelfTameAndNameNumerical>{0} has become tame. It is now designated {1}.</LetterAnimalSelfTameAndNameNumerical>
-  <LetterAnimalSelfTameAndName>{0} has become tame. Colonists have decided to name it {1}.</LetterAnimalSelfTameAndName>
+  <LetterAnimalSelfTame>{0} tornou-se domesticado.</LetterAnimalSelfTame>
+  <LetterAnimalSelfTameAndNameNumerical>{0} tornou-se domesticado. É agora designado {1}.</LetterAnimalSelfTameAndNameNumerical>
+  <LetterAnimalSelfTameAndName>{0} tornou-se domesticado. Os colonos decidiram chamar-lhe {1}.</LetterAnimalSelfTameAndName>
 
   <!-- Farm animals wander in -->
-  <LetterLabelFarmAnimalsWanderIn>{0}s join</LetterLabelFarmAnimalsWanderIn>
-  <LetterFarmAnimalsWanderIn>A group of {0}s, abandoned or lost, have wandered into the area.\n\nThey seem accustomed to human contact and are joining the colony.</LetterFarmAnimalsWanderIn>
+  <LetterLabelFarmAnimalsWanderIn>{0} juntam-se</LetterLabelFarmAnimalsWanderIn>
+  <LetterFarmAnimalsWanderIn>Um grupo de {0}, abandonados ou perdidos, chegaram à área.\n\nEles parecem habituados ao contacto humano e estão a juntar-se à colónia.</LetterFarmAnimalsWanderIn>
   
   <!-- Thrumbo passes -->
-  <LetterLabelThrumboPasses>Rare thrumbos</LetterLabelThrumboPasses>
-  <LetterThrumboPasses>A small herd of thrumbos have wandered into the area.\n\nPeaceful by nature, these rare creatures are extremely dangerous when confronted. Some traders are willing to pay a lot of money for their precious leather and horn.\n\nThrumbos will leave the area in a few days.</LetterThrumboPasses>
+  <LetterLabelThrumboPasses>Thrumbos raros</LetterLabelThrumboPasses>
+  <LetterThrumboPasses>Um pequeno rebanho de thrumbos chegou à área.\n\nPacíficos por natureza, estas raras criaturas são extremamente perigosas quando confrontadas. Alguns comerciantes estão dispostos a pagar muito dinheiro pelas suas preciosas peles e cornos.\n\nThrumbos deixarão esta área em alguns dias.</LetterThrumboPasses>
   
   <!-- Trader caravan -->
   <LetterLabelTraderCaravanArrival>Comerciante de {0}</LetterLabelTraderCaravanArrival>
-  <LetterTraderCaravanArrival>A trade caravan from {0} is approaching.\n\nThey will hang around the colony for a few days before leaving. You can attack them - but this will anger their faction!</LetterTraderCaravanArrival>
+  <LetterTraderCaravanArrival>Uma caravana de comércio de {0} está a se aproximar.\n\nManter-se-á por perto da colónia por alguns dias antes de partir. Podes atacar - mas irá irritar a sua facção!</LetterTraderCaravanArrival>
   
   <!-- Building breaks down -->
-  <LetterLabelBuildingBrokenDown>Breakdown: {0}</LetterLabelBuildingBrokenDown>
+  <LetterLabelBuildingBrokenDown>Colapso: {0}</LetterLabelBuildingBrokenDown>
   <LetterBuildingBrokenDown>Uma das tuas maquinas ({0}) estragou-se. Não irá funcionar até que um colono Reparador vá lá e a repare.</LetterBuildingBrokenDown>
   
 </LanguageData>

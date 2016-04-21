@@ -3,8 +3,8 @@
 
   <JumpToLocation>Ir para o local</JumpToLocation>
   
-  <LetterLabelFirstSummerWarning>Summer</LetterLabelFirstSummerWarning>
-  <FirstSummerWarning>Summer has begun! But winter is coming.\n\nYour food crops won't grow in the winter cold. Be sure to store several days' worth of food now, while you still can.\n\nYou can build a walk-in refrigeration room to prevent food from spoiling.\n\nAnd try to buy, steal, or make some parkas, or you'll freeze when you step outside.</FirstSummerWarning>
+  <LetterLabelFirstSummerWarning>Verão</LetterLabelFirstSummerWarning>
+  <FirstSummerWarning>O verão começou| Mas o inverno está a chegar.\n\nOs teus cultivos não vão crescer no inverno frio. Certifica-te que armazenas alimento suficiente enquanto podes.\n\nPodes construir uma sala de refrigeração para prevenir que a comida se estrague.\n\nE tenta comprar, roubar ou fazer parkas, ou irás congelar quando fores à rua.</FirstSummerWarning>
 
   <RelationsBrokenDown>Relações com {0} foram quebradas. Eles agora são hostis.</RelationsBrokenDown>
   <RelationsWarmed>Relações com {0} foram fortificadas. Eles já não são hostis.</RelationsWarmed>
@@ -16,89 +16,89 @@
 
   <ShortCircuitRain>{0} sofreu curto-circuito na chuva e começou a incendiar.</ShortCircuitRain>
 
-  <LetterLabelAreaRevealed>Area revealed</LetterLabelAreaRevealed>
+  <LetterLabelAreaRevealed>Área revelada</LetterLabelAreaRevealed>
   <AreaRevealed>Uma nova área foi revelada.</AreaRevealed>
-  <AreaRevealedWithMechanoids>A new area has been revealed. It contains ancient, hostile mechanoids.</AreaRevealedWithMechanoids>
+  <AreaRevealedWithMechanoids>Uma nova área foi revelada. Contém robots ancestrais e hostis.</AreaRevealedWithMechanoids>
 
   <RoofCollapsed>O telhado desabou devido a estar muito longe de qualquer suporte.</RoofCollapsed>
   <TheseThingsCrushed>Estas coisas foram esmagadas:</TheseThingsCrushed>
   <NothingCrushed>Nada foi esmagado.</NothingCrushed>
-  <LetterLabelRoofCollapsed>Roof collapse</LetterLabelRoofCollapsed>
+  <LetterLabelRoofCollapsed>Colapso do telhado</LetterLabelRoofCollapsed>
   
   <RecruitSuccess>{0} recrutou com sucesso {1} ({2} chance).</RecruitSuccess>
   <RecruitFail>{0} falhou em recrutar {1} ({2} chance).</RecruitFail>
 
-  <LetterLabelBirthday>Birthday</LetterLabelBirthday>
-  <BirthdayChronological>It's {0}'s chronological birthday today! Biologically, {1} is {3} years old.\n\nChronologically, {1} just turned {2}.\n\nNote that since people don't age while in cryptosleep, chronological birthday is separate from biological birthday.</BirthdayChronological>
-  <BirthdayBiologicalAgeInjuries>{0} has reached the biological age of {1}.\n\nUnfortunately, {0} has gained the following diseases due to aging:\n{2}</BirthdayBiologicalAgeInjuries>
+  <LetterLabelBirthday>Aniversário</LetterLabelBirthday>
+  <BirthdayChronological>É o dia de aniversário de {0}! Biologicamente, {0} tem {3} anos.\n\nCronologicamente, {0} faz {2} anos.\n\nNota que visto que as pessoas não envelhecem em crypto-sono, o aniversário cronológico é diferente do aniversário biológico.</BirthdayChronological>
+  <BirthdayBiologicalAgeInjuries>{0} atingiu a idade biológica de {1} anos.\n\nInfelizmente, {0} apanhou as seguintes doenças devido ao envelhecimento:\n{2}</BirthdayBiologicalAgeInjuries>
 
-  <LetterLabelNewDisease>Disease</LetterLabelNewDisease>
+  <LetterLabelNewDisease>Doença</LetterLabelNewDisease>
   <NewDisease>{0} ficou doente ({1}). Certifica-te que {0} recebe o devido tratamento e que descansa numa cama o tempo necessário para recuperar rapidamente.</NewDisease>
-  <NewPartDisease>{0} apanhou a infecção {1}. Certifica-te que {0} recebe o devido tratamento e que passa bastante tempo a descansar para recuperar rapidamente.</NewPartDisease>
+  <NewPartDisease>{0} ficou doente de {1}. A infecção é no seu {1}.\n\n Certifica-te que recebe o devido tratamento e que passa bastante tempo a descansar para recuperar rapidamente.</NewPartDisease>
 
-  <LetterLabelAncientShrineWarning>Ancient danger</LetterLabelAncientShrineWarning>
-  <AncientShrineWarning>As {0} draws near the ancient wall, a sense of foreboding overcomes HIM. HECAP isn't sure why, but HE feels that this dusty structure may contain great danger.</AncientShrineWarning>
+  <LetterLabelAncientShrineWarning>Perigo ancestral</LetterLabelAncientShrineWarning>
+  <AncientShrineWarning>Enquanto {0} se aproxima da parede ancestral, uma sensação demau agouro apodera-se dele. Ele não tem certeza do por que, mas ache que esta estrutura empoeirada pode conter grande perigo.</AncientShrineWarning>
 
-  <StruckMineable>We have struck {0}!</StruckMineable>
+  <StruckMineable>Encontrámos {0}!</StruckMineable>
 
-  <LetterLabelAnimalManhunterRevenge>{0} revenge</LetterLabelAnimalManhunterRevenge>
-  <AnimalManhunterFromDamage>A {0} is attacking after being harmed!</AnimalManhunterFromDamage>
-  <AnimalManhunterFromTaming>A {0} is attacking due to a taming attempt!</AnimalManhunterFromTaming>
-  <AnimalManhunterOthers>Other {0}s nearby have also become enraged!</AnimalManhunterOthers>
+  <LetterLabelAnimalManhunterRevenge>vingança de {0}</LetterLabelAnimalManhunterRevenge>
+  <AnimalManhunterFromDamage>{0} está a atacar depois de ter sido ferido!</AnimalManhunterFromDamage>
+  <AnimalManhunterFromTaming>{0} está a atacar devido a tentativa de domesticar!</AnimalManhunterFromTaming>
+  <AnimalManhunterOthers>Outros {0}s na proximidade também se enfureceram!</AnimalManhunterOthers>
 
-  <LetterFriendlyTrapSprungLabel>{0} hit trap</LetterFriendlyTrapSprungLabel>
-  <LetterFriendlyTrapSprung>{0} has accidentally sprung a trap and taken damage from it.</LetterFriendlyTrapSprung>
+  <LetterFriendlyTrapSprungLabel>{0} caiu numa armadilha</LetterFriendlyTrapSprungLabel>
+  <LetterFriendlyTrapSprung>{0} caiu acidentalmente numa armadilha e sofreu danos.</LetterFriendlyTrapSprung>
 
-  <LetterHealthComplications>{0} has developed a health condition: {1}\n\nThis was as a complication from: {2}.</LetterHealthComplications>
-  <LetterHealthComplicationsLabel>{0} {1}</LetterHealthComplicationsLabel>
+  <LetterHealthComplications>{0} desenvolveu a seguinte condição médica: {1}\n\nIsto foi devido a uma complicação de: {2}.</LetterHealthComplications>
+  <LetterHealthComplicationsLabel>{0}: {1}</LetterHealthComplicationsLabel>
   
-  <LetterHediffFromRandomHediffGiver>{0} has developed a health condition: {1}.</LetterHediffFromRandomHediffGiver>
-  <LetterHediffFromRandomHediffGiverLabel>{0} {1}</LetterHediffFromRandomHediffGiverLabel>
+  <LetterHediffFromRandomHediffGiver>{0} desenvolveu a seguinte condição médica: {1}.</LetterHediffFromRandomHediffGiver>
+  <LetterHediffFromRandomHediffGiverLabel>{0}: {1}</LetterHediffFromRandomHediffGiverLabel>
   
-  <LetterLeadersDeathLabel>Leader's death</LetterLeadersDeathLabel>
-  <LetterLeadersDeath>Leader {0} of faction {1} has died and been replaced by {2}.</LetterLeadersDeath>
+  <LetterLeadersDeathLabel>Morte do líder</LetterLeadersDeathLabel>
+  <LetterLeadersDeath>{0}, líder da facção {1}, morreu e foi substituído por {2}.</LetterLeadersDeath>
   
   <!-- Family -->
-  <LetterLabelNoticedFamilyMembers>Family</LetterLabelNoticedFamilyMembers>
-  <LetterFamilyMembersRaidEnemy>There are family members of your colonists or prisoners in the arriving group of {0}.\n\nKeep in mind that even though they are related, they will still attack each other because of their bad factions relations.\n\nThe family members are:</LetterFamilyMembersRaidEnemy>
-  <LetterFamilyMembersRaidFriendly>There are family members of your colonists or prisoners in the arriving group of friendly {0}:</LetterFamilyMembersRaidFriendly>
-  <LetterFamilyMembersNeutralGroup>There are family members of your colonists or prisoners in the arriving group:</LetterFamilyMembersNeutralGroup>
-  <LetterFamilyMembersTraderShipSlaves>The orbital trader is selling family members of your colonists or prisoners:</LetterFamilyMembersTraderShipSlaves>
+  <LetterLabelNoticedFamilyMembers>Família</LetterLabelNoticedFamilyMembers>
+  <LetterFamilyMembersRaidEnemy>Há membros da familia dos teus colonos ou prisioneiros a chegar no grupo de {0}.\n\nTem em mente que mesmo que estejam relacionados, eles vão-se atacar uns aos outros devido ao mau relacionamento entre facções.\n\nOs membros familiares são:</LetterFamilyMembersRaidEnemy>
+  <LetterFamilyMembersRaidFriendly>Há membros da família dos teus colonos ou prisioneiros a chegar com o grupo de {0} amigáveis:</LetterFamilyMembersRaidFriendly>
+  <LetterFamilyMembersNeutralGroup>Há membros da família dos teus colonos ou prisioneiros a chegar com o grupo:</LetterFamilyMembersNeutralGroup>
+  <LetterFamilyMembersTraderShipSlaves>O comerciante orbital está a vender membros da família dos teus colonos ou prisioneiros:</LetterFamilyMembersTraderShipSlaves>
   
-  <FamilyLetterAppendedSuffix>(family)</FamilyLetterAppendedSuffix>
-  <FamilyLetterAppendedTextColonist>NAME is a family member of a colonist. HECAP is {0}'s {1}.</FamilyLetterAppendedTextColonist>
-  <FamilyLetterAppendedTextPrisoner>NAME is a family member of one of your prisoners. HECAP is {0}'s {1}.</FamilyLetterAppendedTextPrisoner>
+  <FamilyLetterAppendedSuffix>(família)</FamilyLetterAppendedSuffix>
+  <FamilyLetterAppendedTextColonist>NAME é um membro familiar de um colono. HECAP é {1} de {0}.</FamilyLetterAppendedTextColonist>
+  <FamilyLetterAppendedTextPrisoner>NAME é um membro familiar de um dos teus prisioneiros. HECAP é {1} de {0}.</FamilyLetterAppendedTextPrisoner>
   
   <!-- Attempt romance / propose interaction -->
-  <LetterLabelAffair>Affair</LetterLabelAffair>
-  <LetterAffair>{0}, married to {1}, has begun an affair with {2}.</LetterAffair>
-  <LetterLabelNewLovers>New lovers</LetterLabelNewLovers>
-  <LetterNewLovers>{0} and {1} have come together and are now lovers.</LetterNewLovers>
-  <LetterNoLongerLovers>{0} and {1} are no longer in a relationship.</LetterNoLongerLovers>
-  <LetterLabelAcceptedProposal>Marriage is on!</LetterLabelAcceptedProposal>
-  <LetterLabelRejectedProposal>Rejected proposal</LetterLabelRejectedProposal>
-  <LetterAcceptedProposal>{1} has accepted {0}'s marriage proposal.\n\nAt some point in the coming days or seasons, they will have their marriage ceremony and invite all the colonists. Consider placing a marriage spot if you want to control where the ceremony occurs.</LetterAcceptedProposal>
-  <LetterRejectedProposal>{1} has rejected {0}'s marriage proposal. {0} is going to be unhappy about this.</LetterRejectedProposal>
+  <LetterLabelAffair>Caso</LetterLabelAffair>
+  <LetterAffair>{0}, casado com {1}, começou a ter um caso com {2}.</LetterAffair>
+  <LetterLabelNewLovers>Novos amantes</LetterLabelNewLovers>
+  <LetterNewLovers>{0} e {1} uniram-se e são amantes.</LetterNewLovers>
+  <LetterNoLongerLovers>{0} e {1} acabaram a relação.</LetterNoLongerLovers>
+  <LetterLabelAcceptedProposal>É casamento!</LetterLabelAcceptedProposal>
+  <LetterLabelRejectedProposal>Rejeitada proposta</LetterLabelRejectedProposal>
+  <LetterAcceptedProposal>{1} aceitou o pedido de casamento de {0}.\n\nA cerimonia de casamento irá decorrer num dos próximos dias e todos os colonos estão convidados. Considera colocar um local de casamento se quiseres controlar onde ocorre a cerimonia.</LetterAcceptedProposal>
+  <LetterRejectedProposal>{1} rejeitou o pedido de casamento de {0}. {0} irá ficar triste.</LetterRejectedProposal>
   
   <!-- Generalized letter labels -->
-  <LetterLabelRelationsChangeGood>Good will</LetterLabelRelationsChangeGood>
-  <LetterLabelRelationsChangeBad>Bad will</LetterLabelRelationsChangeBad>
+  <LetterLabelRelationsChangeGood>Boa vontade</LetterLabelRelationsChangeGood>
+  <LetterLabelRelationsChangeBad>Má vontade</LetterLabelRelationsChangeBad>
   <LetterLabelShortCircuit>Zzztt...</LetterLabelShortCircuit>
-  <LetterLabelMentalBreakdown>Mental break</LetterLabelMentalBreakdown>
+  <LetterLabelMentalBreakdown>Quebra mental</LetterLabelMentalBreakdown>
   
   <!-- Bonded animals -->
-  <LetterLabelBondedAnimalDied>Bonded animal's death</LetterLabelBondedAnimalDied>
-  <LetterBondedAnimalDied>{0}, bonded to {1}, has died. It will affect {1}'s mood.</LetterBondedAnimalDied>
-  <LetterNamedBondedAnimalDied>{0} named {1}, bonded to {2}, has died. It will affect {2}'s mood.</LetterNamedBondedAnimalDied>
-  <LetterBondedAnimalDiedMulti>{0} has died. It will affect mood of the following people:\n\n{1}</LetterBondedAnimalDiedMulti>
-  <LetterNamedBondedAnimalDiedMulti>{0} named {1} has died. It will affect mood of the following people:\n\n{2}</LetterNamedBondedAnimalDiedMulti>
+  <LetterLabelBondedAnimalDied>Morte do animal</LetterLabelBondedAnimalDied>
+  <LetterBondedAnimalDied>{0}, com vinculo a {1}, morreu. Vai afectar o humor de {1}.</LetterBondedAnimalDied>
+  <LetterNamedBondedAnimalDied>{0} {1}, com vinculo a {2}, morreu. Vai afectar o humor de {2}.</LetterNamedBondedAnimalDied>
+  <LetterBondedAnimalDiedMulti>{0} morreu. Vai afectar o humor das seguintes pessoas:\n\n{1}</LetterBondedAnimalDiedMulti>
+  <LetterNamedBondedAnimalDiedMulti>{0} {1} morreu. Vai afectar o humor das seguintes pessoas:\n\n{2}</LetterNamedBondedAnimalDiedMulti>
 
   <!-- Prison break -->
-  <LetterLabelPrisonBreak>Prison break</LetterLabelPrisonBreak>
-  <LetterPrisonBreak>Prisoners have staged a breakout! They've somehow defeated the door lock and are making their way out. They may seek weapons, fight, or try to escape. These prisoners are involved:\n\n{0}\n\nPrisoners are more likely to attempt breakout when they are unhappy, numerous, and healthy.</LetterPrisonBreak>
+  <LetterLabelPrisonBreak>Fuga da prisão</LetterLabelPrisonBreak>
+  <LetterPrisonBreak>Prisioneiros armaram uma fuga! Eles de algum modo destruíram a fechadura e estão a fugir. Eles podes tentar procurar armas, lutar ou escapar. Estes prisioneiros estão involvidos:\n\n{0}\n\nPrisioneiros estão mais propensos a tentar fugir se estiverem infelizes, saudáveis e em grande número.</LetterPrisonBreak>
   
   <!-- Party -->
-  <LetterLabelNewParty>Party</LetterLabelNewParty>
-  <LetterNewParty>{0} is throwing a party! Everyone who goes will gain joy and social energy, and a lasting positive mood boost.</LetterNewParty>
+  <LetterLabelNewParty>Festa</LetterLabelNewParty>
+  <LetterNewParty>{0} está a dar uma festa! Todos os que forem ficarão contentes e com energia social, e um impulso de humor positivo.</LetterNewParty>
 
 </LanguageData>
