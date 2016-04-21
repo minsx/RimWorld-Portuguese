@@ -12,4 +12,3 @@ Translators:
 
 Ribas
 DarkTakayanagi
-Costosky
