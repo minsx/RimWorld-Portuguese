@@ -1,36 +1,36 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-    <Head.label>head</Head.label>
+    <Head.label>cabeça</Head.label>
+	
+	<Skull.label>crânio</Skull.label>
+	
+	<Brain.label>cérebro</Brain.label>
+	
+	<LeftEye.label>olho esquerdo</LeftEye.label>
+	
+	<RightEye.label>olho direito</RightEye.label>
+
+	<LeftEar.label>orelha esquerda</LeftEar.label>
+
+	<RightEar.label>orelha direita</RightEar.label>
+
+	<Nose.label>Nariz</Nose.label>
+
+	<Jaw.label>Maxilar</Jaw.label>
+
+	<Neck.label>pescoço</Neck.label>
+
+	<Rib.label>costela</Rib.label>
+	
+	<Spine.label>coluna</Spine.label>
+	
+	<LeftLeg.label>perna esquerda</LeftLeg.label>
     
-    <Skull.label>skull</Skull.label>
+    <LeftFoot.label>pé esquerdo</LeftFoot.label>
     
-    <Brain.label>brain</Brain.label>
+    <RightLeg.label>perna direita</RightLeg.label>
     
-    <LeftEye.label>left eye</LeftEye.label>
-    
-    <RightEye.label>right eye</RightEye.label>
-    
-    <LeftEar.label>left ear</LeftEar.label>
-    
-    <RightEar.label>right ear</RightEar.label>
-    
-    <Nose.label>nose</Nose.label>
-    
-    <Jaw.label>jaw</Jaw.label>
-    
-    <Neck.label>neck</Neck.label>
-    
-    <Rib.label>rib</Rib.label>
-    
-    <Spine.label>spine</Spine.label>
-    
-    <LeftLeg.label>left leg</LeftLeg.label>
-    
-    <LeftFoot.label>left foot</LeftFoot.label>
-    
-    <RightLeg.label>right leg</RightLeg.label>
-    
-    <RightFoot.label>right foot</RightFoot.label>
-    
+    <RightFoot.label>pé direito</RightFoot.label>
+	
 </LanguageData>

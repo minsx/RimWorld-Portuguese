@@ -1,30 +1,58 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
+    
+    <Torso.label>tronco</Torso.label>
 	
-	<Torso.label>Tronco</Torso.label>
-	<UpperHead.label>Parte superior da cabeça</UpperHead.label>
-	<FullHead.label>Cabeça inteira</FullHead.label>
-	<Eyes.label>Olhos</Eyes.label>
-	<Arms.label>Braços</Arms.label>
-	<Hands.label>Mãos</Hands.label>
-	<LeftFist.label>Punho esquerdo</LeftFist.label>
-	<RightFist.label>Punho direito</RightFist.label>
-	<Legs.label>Pernas</Legs.label>
-	<Feet.label>Pés</Feet.label>
-	<Teeth.label>Dentes</Teeth.label>
-	<FrontLeftPaw.label>Pata esquerda dianteira</FrontLeftPaw.label>
-	<FrontRightPaw.label>Pata direita dianteira</FrontRightPaw.label>
-	<HeadAttackTool.label>Cabeça</HeadAttackTool.label>
-	<FrontLeftLeg.label>Perna esquerda dianteira</FrontLeftLeg.label>
-	<FrontRightLeg.label>Perna direita dianteira</FrontRightLeg.label>
-	<FrontLeftClaws.label>Garra esquerda dianteira</FrontLeftClaws.label>
-	<FrontRightClaws.label>Garra direita dianteira</FrontRightClaws.label>
-	<Mouth.label>Boca</Mouth.label>
-	<LeftKnifeProtrusion.label>Protusão da faca esquerda</LeftKnifeProtrusion.label>
-	<RightKnifeProtrusion.label>Protusão da faca direita</RightKnifeProtrusion.label>
-	<CoveredByNaturalArmor.label>Protegido pela armadura natural</CoveredByNaturalArmor.label>
-	<TuskAttackTool.label>Presas</TuskAttackTool.label>
-	<HornAttackTool.label>Corno</HornAttackTool.label>
+	<UpperHead.label>parte superior da cabeça</UpperHead.label>
+	
+	<FullHead.label>cabeça inteira</FullHead.label>
+	
+	<Eyes.label>olhos</Eyes.label>
+	
+	<Teeth.label>dentes</Teeth.label>
+	
+	<Mouth.label>boca</Mouth.label>
+	
+	<Arms.label>braços</Arms.label>
+	
+	<Shoulders.label>ombros</Shoulders.label>
+	
+	<Hands.label>mãos</Hands.label>
+	
+	<LeftHand.label>mão esquerda</LeftHand.label>
+	
+	<RightHand.label>mão direita</RightHand.label>
+	
+	<Legs.label>pernas</Legs.label>
+	
+	<Feet.label>pés</Feet.label>
+	
+	<FrontLeftPaw.label>pata esquerda dianteira</FrontLeftPaw.label>
+	
+	<FrontRightPaw.label>pata direita dianteira</FrontRightPaw.label>
+	
+	<HeadAttackTool.label>cabeça</HeadAttackTool.label>
+	
+	<FrontLeftLeg.label>perna esquerda dianteira</FrontLeftLeg.label>
+	
+	<FrontRightLeg.label>perna direita dianteira</FrontRightLeg.label>
+	
+	<FrontLeftClaws.label>garra esquerda dianteira</FrontLeftClaws.label>
+	
+	<FrontRightClaws.label>garra direita dianteira</FrontRightClaws.label>
+	
+	<LeftBlade.label>lâmina esquerda</LeftBlade.label>
+	
+	<RightBlade.label>lâmina direita</RightBlade.label>
+	
+	<CoveredByNaturalArmor.label>protegido pela armadura natural</CoveredByNaturalArmor.label>
+	
+	<TuskAttackTool.label>presas</TuskAttackTool.label>
+	
+	<HornAttackTool.label>corno</HornAttackTool.label>
+	
+	<HeadClaw.label>garra</HeadClaw.label>
+	
 	<TurtleBeakAttackTool.label>Bico (nariz)</TurtleBeakAttackTool.label>
-		
+    
 </LanguageData>

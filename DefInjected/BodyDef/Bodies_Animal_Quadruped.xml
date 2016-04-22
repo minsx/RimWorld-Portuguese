@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-    <QuadrupedAnimalWithPaws.label>quadruped animal</QuadrupedAnimalWithPaws.label>
+    <QuadrupedAnimalWithPaws.label>animal quadrúpede</QuadrupedAnimalWithPaws.label>
     
-    <QuadrupedAnimalWithPawsAndTail.label>quadruped animal</QuadrupedAnimalWithPawsAndTail.label>
+    <QuadrupedAnimalWithPawsAndTail.label>animal quadrúpede</QuadrupedAnimalWithPawsAndTail.label>
     
-    <QuadrupedAnimalWithHooves.label>quadruped animal</QuadrupedAnimalWithHooves.label>
+    <QuadrupedAnimalWithHooves.label>animal quadrúpede</QuadrupedAnimalWithHooves.label>
     
-    <QuadrupedAnimalWithHoovesAndHump.label>quadruped animal</QuadrupedAnimalWithHoovesAndHump.label>
+    <QuadrupedAnimalWithHoovesAndHump.label>animal quadrúpede</QuadrupedAnimalWithHoovesAndHump.label>
     
-    <QuadrupedAnimalWithHoovesAndTusks.label>quadruped animal</QuadrupedAnimalWithHoovesAndTusks.label>
+    <QuadrupedAnimalWithHoovesAndTusks.label>animal quadrúpede</QuadrupedAnimalWithHoovesAndTusks.label>
     
-    <QuadrupedAnimalWithHoovesTusksAndTrunk.label>quadruped animal</QuadrupedAnimalWithHoovesTusksAndTrunk.label>
+    <QuadrupedAnimalWithHoovesTusksAndTrunk.label>animal quadrúpede</QuadrupedAnimalWithHoovesTusksAndTrunk.label>
     
-    <QuadrupedAnimalWithHoovesAndHorn.label>quadruped animal</QuadrupedAnimalWithHoovesAndHorn.label>
+    <QuadrupedAnimalWithHoovesAndHorn.label>animal quadrúpede</QuadrupedAnimalWithHoovesAndHorn.label>
     
-    <QuadrupedAnimalWithClawsTailAndJowl.label>quadruped animal</QuadrupedAnimalWithClawsTailAndJowl.label>
+    <QuadrupedAnimalWithClawsTailAndJowl.label>animal quadrúpede</QuadrupedAnimalWithClawsTailAndJowl.label>
     
-    <TurtleLike.label>turtle-like</TurtleLike.label>
+    <TurtleLike.label>tipo-tartaruga</TurtleLike.label>
     
-    <Monkey.label>monkey</Monkey.label>
+    <Monkey.label>macaco</Monkey.label>
     
 </LanguageData>

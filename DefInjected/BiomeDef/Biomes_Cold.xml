@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-    <BorealForest.label>boreal forest</BorealForest.label>
-    <BorealForest.description>Northern forests of coniferous trees. Despite the harsh winters, boreal forests sustain a diverse population of small and large animals.</BorealForest.description>
+    <BorealForest.label>floresta boreal</BorealForest.label>
+    <BorealForest.description>Florestas do norte cheias de árvores cuníferas. Apesar dos invernos severos, florestas boreais sustentam uma população diversa de pequenos e grandes animais.</BorealForest.description>
     
     <Tundra.label>tundra</Tundra.label>
-    <Tundra.description>These mostly-frozen plains bear almost no trees and little vegetation. There are a few small animals interspesed with large herds of migratory grazers and their predators.</Tundra.description>
+    <Tundra.description>Estas planícies maioritariamente congeladas suportam quase nenhuma árvore e pouca vegetação. Há poucos animais pequenos e algumas manadas de mamíferos e seus predadores.</Tundra.description>
     
-    <IceSheet.label>ice sheet</IceSheet.label>
-    <IceSheet.description>The surface is covered with sheets of ice which can be kilometers thick. There is no access to soil, so there are no plants. The only animals seen here are migrating to somewhere else - or badly lost.</IceSheet.description>
+    <IceSheet.label>camada de gelo</IceSheet.label>
+    <IceSheet.description>A superfície está coberta com camada de gelo que podem ter kilómetros de espessura. Não há acesso a solo, logo não há plantas. Os únicos animais avistados aqui estão a migrar para outras zonas - ou seriamente perdidos.</IceSheet.description>
     
 </LanguageData>

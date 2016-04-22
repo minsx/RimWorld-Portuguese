@@ -2,12 +2,12 @@
 <LanguageData>
     
     <Ocean.label>oceano</Ocean.label>
-    <Ocean.description>Open ocean. Great for fish - not so great for you.</Ocean.description>
+    <Ocean.description>Mar aberto. Ótimo para os peixes - não tão bom para ti.</Ocean.description>
     
-    <TemperateForest.label>temperate forest</TemperateForest.label>
-    <TemperateForest.description>A friendly biome dominated by forests of deciduous trees interspersed with fertile clearings. Many species of animals move around in the trees and on the plains.</TemperateForest.description>
+    <TemperateForest.label>floresta temperada</TemperateForest.label>
+    <TemperateForest.description>Um bioma amigável dominado por árvores caducas intercalado com clareiras fertéi. Muitas espécies animais vivem aqui.</TemperateForest.description>
     
-    <TropicalRainforest.label>tropical rainforest</TropicalRainforest.label>
-    <TropicalRainforest.description>A thick, moist jungle. Dense overgrowth and aggressive wildlife make construction and survival difficult.</TropicalRainforest.description>
+    <TropicalRainforest.label>floresta tropical</TropicalRainforest.label>
+    <TropicalRainforest.description>Uma selva húmida e espessa. Crescimento excessivo e denso e vida selvagem agressiva tornam construcções e sobrevivência difícil.</TropicalRainforest.description>
     
 </LanguageData>
