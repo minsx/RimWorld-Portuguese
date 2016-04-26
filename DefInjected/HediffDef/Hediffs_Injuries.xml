@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-    <Misc.label>misc</Misc.label>
+    <Misc.label>variado</Misc.label>
     <Misc.comps.0.labelTendedWell>bandaged</Misc.comps.0.labelTendedWell>
     <Misc.comps.0.labelTended>poorly bandaged</Misc.comps.0.labelTended>
     <Misc.comps.0.labelTendedWellInner>sutured</Misc.comps.0.labelTendedWellInner>
