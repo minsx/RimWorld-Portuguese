@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-    <WealthTotal.label>riqueza (total)</WealthTotal.label>
+    <WealthTotal.label>wealth (total)</WealthTotal.label>
     
-    <WealthItems.label>riqueza (items)</WealthItems.label>
+    <WealthItems.label>wealth (items)</WealthItems.label>
     
-    <WealthBuildings.label>riqueza (construções)</WealthBuildings.label>
+    <WealthBuildings.label>wealth (buildings)</WealthBuildings.label>
     
-    <FreeColonists.label>colonos livres</FreeColonists.label>
+    <FreeColonists.label>free colonists</FreeColonists.label>
     
-    <Prisoners.label>prisioneiros</Prisoners.label>
+    <Prisoners.label>prisoners</Prisoners.label>
     
-    <ColonistMood.label>estado de espírito</ColonistMood.label>
+    <ColonistMood.label>mood</ColonistMood.label>
     
 </LanguageData>

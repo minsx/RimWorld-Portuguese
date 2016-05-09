@@ -1,37 +1,64 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-    <NutrientPasteDispenser.label>Dispensador de pasta nutritiva</NutrientPasteDispenser.label>
-    <NutrientPasteDispenser.description>Sintetiza pasta nutritiva apartir de matéria-prima orgânica.</NutrientPasteDispenser.description>
+    <CraftingSpot.label>crafting spot</CraftingSpot.label>
+    <CraftingSpot.description>A place for crafting simple things like shivs or bows.</CraftingSpot.description>
     
-    <Hopper.label>funil</Hopper.label>
+    <NutrientPasteDispenser.label>nutrient paste dispenser</NutrientPasteDispenser.label>
+    <NutrientPasteDispenser.description>Synthesizes nutrient paste from organic feedstocks. It consumes less ingredients and time than any other meal production method - but nobody likes eating nutrient paste. Accepts raw food, but not rough plant matter like hay.</NutrientPasteDispenser.description>
     
-    <!-- ========================= Work tables ==========================-->
+    <Hopper.label>hopper</Hopper.label>
+    <Hopper.description>Holds resources for use by machines like nutrient paste dispensers.</Hopper.description>
     
-    <TableButcher.label>Mesa de talhante</TableButcher.label>
-    <TableButcher.description>Uma mesa pesada para matar e fatiar animais em pedaços de carne crua.</TableButcher.description>
+    <TableButcher.label>butcher table</TableButcher.label>
+    <TableButcher.description>A heavy table for butchering dead creatures into pieces of raw meat.</TableButcher.description>
     
-    <TableTailor.label>Bancada de alfaiate</TableTailor.label>
-    <TableTailor.description>Uma bancada equipada com utensílios para refinar e produzir roupa.</TableTailor.description>
+    <ElectricTailoringBench.label>electric tailoring bench</ElectricTailoringBench.label>
+    <ElectricTailoringBench.description>A workbench with a sewing machine for rapid tailoring of clothes. Can work without electricity at 40% of normal speed.</ElectricTailoringBench.description>
     
-    <TableMachining.label>Mesa de usinagem</TableMachining.label>
-    <TableMachining.description>Uma mesa e ferramentas para montar e desmontar componentes de máquinas.</TableMachining.description>
+    <HandTailoringBench.label>hand-tailoring bench</HandTailoringBench.label>
+    <HandTailoringBench.description>A workbench for tailoring clothes by hand. Works at 40% of the speed of an electric tailoring bench.</HandTailoringBench.description>
     
-    <CookStove.label>Fogão de cozinha</CookStove.label>
-    <CookStove.description>Um simples fogão para preparar refeições com ingredientes simples.</CookStove.description>
+    <ElectricSmithy.label>electric smithy</ElectricSmithy.label>
+    <ElectricSmithy.description>An electric-powered station equipped for smithing non-mechanical weapons and tools.</ElectricSmithy.description>
     
-    <TableStonecutter.label>Mesa de lapidação</TableStonecutter.label>
-    <TableStonecutter.description>Permite cortar pedra em blocos úteis.</TableStonecutter.description>
+    <FueledSmithy.label>fueled smithy</FueledSmithy.label>
+    <FueledSmithy.description>A wood-fueled station equipped for smithing non-mechanical weapons and tools.</FueledSmithy.description>
     
-    <ElectricSmelter.label>Fundidor elétrico</ElectricSmelter.label>
-    <ElectricSmelter.description>Extrai metal de pedaços de escombros e de outros items metálicos. Consume muita energia.</ElectricSmelter.description>
+    <TableSculpting.label>sculptor's table</TableSculpting.label>
+    <TableSculpting.description>A workbench equipped for artistic sculpting.</TableSculpting.description>
     
-    <Crematorium.label>crematório</Crematorium.label>
-    <Crematorium.description>Crema os corpos.</Crematorium.description>
+    <TableMachining.label>machining table</TableMachining.label>
+    <TableMachining.description>A work station for assembling and disassembling machinery such as guns or mechanoid corpses.</TableMachining.description>
     
-    <!-- ========== Hydroponics ==============-->
+    <ElectricStove.label>electric stove</ElectricStove.label>
+    <ElectricStove.description>An electrically-powered stove with an attached countertop for preparing meals.</ElectricStove.description>
     
-    <HydroponicsBasin.label>base hidropónica</HydroponicsBasin.label>
-    <HydroponicsBasin.description>Para cultivar alimentos. Bases hidropónicas aceleram o crescimento das plantas.</HydroponicsBasin.description>
+    <FueledStove.label>fueled stove</FueledStove.label>
+    <FueledStove.description>A simple wood-fueled stove with an attached countertop for preparing meals.</FueledStove.description>
+    
+    <TableStonecutter.label>stonecutter's table</TableStonecutter.label>
+    <TableStonecutter.description>A work table equipped to cut rough stone into usable blocks.</TableStonecutter.description>
+    
+    <Brewery.label>brewery</Brewery.label>
+    <Brewery.description>A work station with all the equipment needed to brew beer.</Brewery.description>
+    
+    <ElectricSmelter.label>electric smelter</ElectricSmelter.label>
+    <ElectricSmelter.description>Extracts usable metal from slag chunks and other mixed metal items. Consumes a lot of power.</ElectricSmelter.description>
+    
+    <ComponentAssemblyBench.label>component assembly bench</ComponentAssemblyBench.label>
+    <ComponentAssemblyBench.description>A workbench equipped with advanced tools for producing components from simpler materials.</ComponentAssemblyBench.description>
+    
+    <SimpleResearchBench.label>simple research bench</SimpleResearchBench.label>
+    <SimpleResearchBench.description>A simple bench with writing implements and low-tech scientific tools. Researchers work here to discover new things.</SimpleResearchBench.description>
+    
+    <HiTechResearchBench.label>hi-tech research bench</HiTechResearchBench.label>
+    <HiTechResearchBench.description>A high-tech bench with computers and electronic measurement equipment. Research is sped up by the high-tech tools. Requires power.</HiTechResearchBench.description>
+    
+    <ElectricCrematorium.label>electric crematorium</ElectricCrematorium.label>
+    <ElectricCrematorium.description>Cremates corpses. Electrically-powered.</ElectricCrematorium.description>
+    
+    <HydroponicsBasin.label>hydroponics basin</HydroponicsBasin.label>
+    <HydroponicsBasin.description>Grows plants quickly in an artificial nutrient bath. Requires power to work; plants will die if power is cut.</HydroponicsBasin.description>
     
 </LanguageData>

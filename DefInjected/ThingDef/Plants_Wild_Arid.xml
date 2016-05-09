@@ -1,17 +1,13 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-    <!--===========================  Wild - clustering bushes (some harvestable) ==============================-->
-    
     <PlantAgave.label>agave</PlantAgave.label>
-    <PlantAgave.description>Planta desértica de grande folhagem com flores e caule comestíveis.</PlantAgave.description>
+    <PlantAgave.description>A large-leafed desert plant with edible flowers and stalks.</PlantAgave.description>
     
-    <!--============================ Wild - Cacti ============================-->
+    <PlantSaguaroCactus.label>saguaro cactus</PlantSaguaroCactus.label>
+    <PlantSaguaroCactus.description>A large cactus native to arid Earth environments.</PlantSaguaroCactus.description>
     
-    <PlantSaguaroCactus.label>cacto saguaro</PlantSaguaroCactus.label>
-    <PlantSaguaroCactus.description>Cacto grande nativo de ambientes desertos.</PlantSaguaroCactus.description>
-    
-    <PlantPincushionCactus.label>cacto escobaria</PlantPincushionCactus.label>
-    <PlantPincushionCactus.description>Cacto pequeno.</PlantPincushionCactus.description>
+    <PlantPincushionCactus.label>pincushion cactus</PlantPincushionCactus.label>
+    <PlantPincushionCactus.description>A short cactus. So named because it resembles a pincushion.</PlantPincushionCactus.description>
     
 </LanguageData>

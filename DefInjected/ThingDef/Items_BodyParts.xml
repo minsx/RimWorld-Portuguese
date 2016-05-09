@@ -1,43 +1,37 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-    <!-- natural -->
+    <Heart.label>heart</Heart.label>
+    <Heart.description>Supplies blood and oxygen to all parts of the body. Ready to find a new owner.</Heart.description>
     
-    <Heart.label>coração</Heart.label>
-    <Heart.description>Fornece sangue e oxigénio a todas as partes do corpo. Pronto para encontrar um novo dono.</Heart.description>
+    <Lung.label>lung</Lung.label>
+    <Lung.description>Essential part of the respiratory system.</Lung.description>
     
-    <Lung.label>pulmão</Lung.label>
-    <Lung.description>Parte essencial do sistema respiratório.</Lung.description>
+    <Kidney.label>kidney</Kidney.label>
+    <Kidney.description>Filters and removes waste products from the blood.</Kidney.description>
     
-    <Kidney.label>rim</Kidney.label>
-    <Kidney.description>Filtra e remove impurezas do sangue.</Kidney.description>
+    <Liver.label>liver</Liver.label>
+    <Liver.description>Plays an important role in metabolism.</Liver.description>
     
-    <Liver.label>fígado</Liver.label>
-    <Liver.description>Tem um papel importante no metabolismo.</Liver.description>
+    <SimpleProstheticLeg.label>simple prosthetic leg</SimpleProstheticLeg.label>
+    <SimpleProstheticLeg.description>Simple prosthesis made to replace missing leg. Not very comfortable but quite efficient.</SimpleProstheticLeg.description>
     
-    <!-- artificial - simple prosthetics -->
+    <SimpleProstheticArm.label>simple prosthetic arm</SimpleProstheticArm.label>
+    <SimpleProstheticArm.description>Simple but durable arm prosthesis.</SimpleProstheticArm.description>
     
-    <SimpleProstheticLeg.label>simples perna próstetica</SimpleProstheticLeg.label>
-    <SimpleProstheticLeg.description>Simples prótese feita para substituir uma perna. Não é muito confortável mas é eficiente.</SimpleProstheticLeg.description>
+    <BionicEye.label>bionic eye</BionicEye.label>
+    <BionicEye.description>Advanced piece of technology made not only to fully replace natural eye, but also to give supernatural vision abilities.</BionicEye.description>
     
-    <SimpleProstheticArm.label>simple braço próstetico</SimpleProstheticArm.label>
-    <SimpleProstheticArm.description>Simples mas resistente braço próstetico.</SimpleProstheticArm.description>
+    <BionicArm.label>bionic arm</BionicArm.label>
+    <BionicArm.description>One of the most sophisticated arm replacements. Gives extreme strength to its user.</BionicArm.description>
     
-    <!-- artificial - bionics -->
+    <BionicLeg.label>bionic leg</BionicLeg.label>
+    <BionicLeg.description>Bionic leg uses cutting-edge technology to give its owner extreme walking comfort and strength.</BionicLeg.description>
     
-    <BionicEye.label>olho biónico</BionicEye.label>
-    <BionicEye.description>Peça avançade de tecnologia feita não só para substituir o olho humano, mas também para dar visão sobrenatural.</BionicEye.description>
+    <PowerClaw.label>power claw</PowerClaw.label>
+    <PowerClaw.description>Powerful hand replacement consisting of three deadly claws.</PowerClaw.description>
     
-    <BionicArm.label>braço biónico</BionicArm.label>
-    <BionicArm.description>Uma das mais sofisticadas substituições para braço. Oferece uma extrema força ao utilizador.</BionicArm.description>
-    
-    <BionicLeg.label>perna biónica</BionicLeg.label>
-    <BionicLeg.description>Perna biónica usa tecnologia de ponta para dar ao utilizador extrema força e conforto ao andar.</BionicLeg.description>
-    
-    <PowerClaw.label>garra poderosa</PowerClaw.label>
-    <PowerClaw.description>Um poderoso substituto para a mão que consiste em três garras mortíferas.</PowerClaw.description>
-    
-    <ScytherKnifeProtrusion.label>scyther knife protrusion</ScytherKnifeProtrusion.label>
-    <ScytherKnifeProtrusion.description>Substituto para a mão com uma lâmina imbutida. Não é muito confortável, mas é bastante eficiente como arma corpo-a-corpo.</ScytherKnifeProtrusion.description>
+    <ScytherBlade.label>scyther blade</ScytherBlade.label>
+    <ScytherBlade.description>Hand replacement with a telescoping blade. Scavenged from a dead scyther mechanoid. Not very comfortable, but quite effective as a close-range weapon.</ScytherBlade.description>
     
 </LanguageData>

@@ -57,12 +57,14 @@
 	<Doctor.gerundLabel>Medicando</Doctor.gerundLabel>
 	<Doctor.verb>Tratar de</Doctor.verb>
 	    
-	<Patient.pawnLabel>Paciente</Patient.pawnLabel>
-    <Patient.gerundLabel>Paciente</Patient.gerundLabel>
-	<Patient.verb>Ser paciente</Patient.verb>
-	
+
+	<Firefighter.labelShort>Combater incêndios</Firefighter.labelShort>
+	<Firefighter.description>Extingue fogos na colónia.</Firefighter.description>
 	<Firefighter.pawnLabel>Bombeiro</Firefighter.pawnLabel>
 	<Firefighter.gerundLabel>Combatendo incêndio</Firefighter.gerundLabel>
 	<Firefighter.verb>Combater incêndio</Firefighter.verb>
 
+	<Patient.pawnLabel>Paciente</Patient.pawnLabel>
+    <Patient.gerundLabel>Paciente</Patient.gerundLabel>
+	<Patient.verb>Ser paciente</Patient.verb>
 </LanguageData>

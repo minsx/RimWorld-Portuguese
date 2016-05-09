@@ -1,41 +1,34 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-    <!--============================ Simple mineables ===============================-->
+    <CollapsedRocks.label>collapsed rocks</CollapsedRocks.label>
+    <CollapsedRocks.description>Collapsed rocks, packed tightly enough to hold up a roof.</CollapsedRocks.description>
     
-    <Sandstone.label>arenito</Sandstone.label>
-    <Sandstone.description>Uma rocha sedimentar composta por partículas de areia comprimidas juntas.</Sandstone.description>
+    <MineableSteel.label>compacted steel</MineableSteel.label>
+    <MineableSteel.description>The remains of some ancient, collapsed structure. Rich in steel.</MineableSteel.description>
     
-    <Limestone.label>calcário</Limestone.label>
-    <Limestone.description>Uma rocha sedimentar formada dos restos compactados de conchas antigas.</Limestone.description>
+    <MineableSilver.label>silver ore</MineableSilver.label>
+    <MineableSilver.description>Rock containing bits of silver.</MineableSilver.description>
     
-    <Granite.label>granito</Granite.label>
-    <Granite.description>Uma rocha dura e resistente.</Granite.description>
+    <MineableGold.label>gold ore</MineableGold.label>
+    <MineableGold.description>Rock containing bits of gold.</MineableGold.description>
     
-    <Slate.label>ardósia</Slate.label>
-    <Slate.description>Uma rocha metamórfica escura. As suas camadas são emblemáticas de clivagem xistosa.</Slate.description>
-	
-    <Marble.label>mármore</Marble.label>
-    <Marble.description>Uma rocha metamórfica suave.</Marble.description>
+    <MineableUranium.label>uranium ore</MineableUranium.label>
+    <MineableUranium.description>Rock containing bits of uranium.</MineableUranium.description>
     
-    <CollapsedRocks.label>rochas desmoronadas</CollapsedRocks.label>
-    <CollapsedRocks.description>Rochas, desabadas e empacotadas estreitas o suficiente para suportar um telhado.</CollapsedRocks.description>
+    <MineablePlasteel.label>compacted plasteel</MineablePlasteel.label>
+    <MineablePlasteel.description>Ancient compacted rubble rich in plasteel.</MineablePlasteel.description>
     
-    <!--============================ Resource rocks ===============================-->
+    <MineableJade.label>jade</MineableJade.label>
+    <MineableJade.description>Rock containing bits of jade.</MineableJade.description>
     
-    <MineableMetal.label>minério de metal</MineableMetal.label>
-    <MineableMetal.description>Mina isto para obteres metal.</MineableMetal.description>
+    <MineableComponents.label>compacted machinery</MineableComponents.label>
+    <MineableComponents.description>Ancient machinery, compacted over time. Can be mined for useful components.</MineableComponents.description>
     
-    <MineableSilver.label>minério de prata</MineableSilver.label>
-    <MineableSilver.description>Mina isto para obteres prata.</MineableSilver.description>
+    <SteamGeyser.label>steam geyser</SteamGeyser.label>
+    <SteamGeyser.description>Natural steam source.</SteamGeyser.description>
     
-    <MineableGold.label>minério de ouro</MineableGold.label>
-    <MineableGold.description>Mina isto para obteres ouro.</MineableGold.description>
-    
-    <MineablePlasteel.label>plasteel compactado</MineablePlasteel.label>
-    <MineablePlasteel.description>Cascalho antigo compactado rico em plasteel.</MineablePlasteel.description>
-
-    <SteamGeyser.label>géiser</SteamGeyser.label>
-    <SteamGeyser.description>Fonte natural de vapor.</SteamGeyser.description>
+    <Hive.label>hive</Hive.label>
+    <Hive.description>A bug hive. Will spawn additional bugs and hives over time.</Hive.description>
     
 </LanguageData>

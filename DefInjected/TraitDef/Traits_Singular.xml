@@ -1,121 +1,58 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
-
-	<rep>
-		<path>Nudist.degreeDatas[0].label</path>
-		<trans>nudista</trans>
-	</rep>
-	<rep>
-		<path>Nudist.degreeDatas[0].description</path>
-		<trans>NAME adora o sentimento de liberdade de estar sem roupas. HECAP suporta roupa, mas fica mais feliz sem ela.</trans>
-	</rep>
-
-	<rep>
-		<path>Bloodlust.degreeDatas[0].label</path>
-		<trans>sede de sangue</trans>
-	</rep>
-	<rep>
-		<path>Bloodlust.degreeDatas[0].description</path>
-		<trans>NAME ganha ímpeto por magoar pessoas, e nunca se importa com a visão de sangue ou morte.</trans>
-	</rep>
-
-	<rep>
-		<path>Psychopath.degreeDatas[0].label</path>
-		<trans>Psicopata</trans>
-	</rep>
-	<rep>
-		<path>Psychopath.degreeDatas[0].description</path>
-		<trans>NAME não tem empatia. O sofrimento dos outros não lhe incomoda de modo algum. HECAP não se importa se os outros são mortos, presos, ou vendidos como escravos - a não ser que seja HIS; também não ganha nada em socializar.</trans>
-	</rep>
-
-	<rep>
-		<path>Cannibal.degreeDatas[0].label</path>
-		<trans>Canibal</trans>
-	</rep>
-	<rep>
-		<path>Cannibal.degreeDatas[0].description</path>
-		<trans>NAME foi ensinado que comer carne humana é errado e terrível. Mas uma vez, há muito tempo, a tentação foi tanta que provou... e NAME gostou.</trans>
-	</rep>
-
-	<rep>
-		<path>Abrasive.degreeDatas[0].label</path>
-		<trans>abrasivo</trans>
-	</rep>
-	<rep>
-		<path>Abrasive.degreeDatas[0].description</path>
-		<trans>NAME sempre diz exactamente o que vai no pensamento, especialmente se lhe chateia. Isso tende a levar as pessoas para o caminho errado.</trans>
-	</rep>
-
-	<rep>
-		<path>TriggerHappy.degreeDatas[0].label</path>
-		<trans>Dedo-no-Gatilho</trans>
-	</rep>
-	<rep>
-		<path>TriggerHappy.degreeDatas[0].description</path>
-		<trans>Pew! Pew! Pew! NAME dispara terrivelmente, mas NAME não se importa, porque armas são brutais!</trans>
-	</rep>
-
-	<rep>
-		<path>CarefulShooter.degreeDatas[0].label</path>
-		<trans>Atirador cauteloso</trans>
-	</rep>
-	<rep>
-		<path>CarefulShooter.degreeDatas[0].description</path>
-		<trans>NAME tem boa pontaria, mas demora mais tempo a focar-se no alvo.</trans>
-	</rep>
-
-	<rep>
-		<path>TooSmart.degreeDatas[0].label</path>
-		<trans>Demasiado esperto</trans>
-	</rep>
-	<rep>
-		<path>TooSmart.degreeDatas[0].description</path>
-		<trans>NAME é demasiado esperto para o HIS próprio bem. NAME pode aprender tudo muito mais rápido que os outros, mas pode ser demasiado excêntrico.</trans>
-	</rep>
-
-	<rep>
-		<path>Brawler.degreeDatas[0].label</path>
-		<trans>Lutador</trans>
-	</rep>
-	<rep>
-		<path>Brawler.degreeDatas[0].description</path>
-		<trans>NAME gosta de combater corpo-a-corpo. Tem uma precisão em combate muito maior, mas sente-se triste quando tem de carregar uma arma de fogo.</trans>
-	</rep>
-
-	<rep>
-		<path>Masochist.degreeDatas[0].label</path>
-		<trans>masoquista</trans>
-	</rep>
-	<rep>
-		<path>Masochist.degreeDatas[0].description</path>
-		<trans>Para NAME, há algo excitante em magoar-se. NAME sabe porquê; talvez tenha nascido diferente dos outros.</trans>
-	</rep>
-
-	<rep>
-		<path>Prosthophile.degreeDatas[0].label</path>
-		<trans>Entusiasta por próteses</trans>
-	</rep>
-	<rep>
-		<path>Prosthophile.degreeDatas[0].description</path>
-		<trans>NAME sente-se limitado no débil corpo humano. NAME sonha frequentemente em ter partes biónicas.</trans>
-	</rep>
-
-	<rep>
-		<path>Prosthophobe.degreeDatas[0].label</path>
-		<trans>Fobia a próteses</trans>
-	</rep>
-	<rep>
-		<path>Prosthophobe.degreeDatas[0].description</path>
-		<trans>NAME acredita que o corpo humano é limitado por alguma razão. Para NAME, partes do corpo biónicas são antiéticas.</trans>
-	</rep>
-
-	<rep>
-		<path>GreenThumb.degreeDatas[0].label</path>
-		<trans>Polegar Verde</trans>
-	</rep>
-	<rep>
-		<path>GreenThumb.degreeDatas[0].description</path>
-		<trans>NAME tem uma paixão por jardinagem. HECAP recebe um bonus de disposição por cada planta que semear.</trans>
-	</rep>
-
+    
+    <Nudist.degreeDatas.0.label>nudist</Nudist.degreeDatas.0.label>
+    <Nudist.degreeDatas.0.description>NAME enjoys the feeling of freedom that comes from being nude. HECAP can handle clothing, but will be happier without it.</Nudist.degreeDatas.0.description>
+    
+    <Bloodlust.degreeDatas.0.label>bloodlust</Bloodlust.degreeDatas.0.label>
+    <Bloodlust.degreeDatas.0.description>NAME gets a rush from hurting people, and never minds the sight of blood or death. HECAP is twice as likely to start a social fight.</Bloodlust.degreeDatas.0.description>
+    
+    <Psychopath.degreeDatas.0.label>psychopath</Psychopath.degreeDatas.0.label>
+    <Psychopath.degreeDatas.0.description>NAME has no empathy. The suffering of others doesn't bother HIM at all. HECAP doesn't mind if others are butchered, left unburied, imprisoned, or sold to slavery - unless it affects HIM. HECAP also feels no mood boost from socializing.</Psychopath.degreeDatas.0.description>
+    
+    <Cannibal.degreeDatas.0.label>cannibal</Cannibal.degreeDatas.0.label>
+    <Cannibal.degreeDatas.0.description>NAME was taught that eating human meat is wrong and horrible. But one time, long ago, HE tried it... and HE liked it.</Cannibal.degreeDatas.0.description>
+    
+    <Abrasive.degreeDatas.0.label>abrasive</Abrasive.degreeDatas.0.label>
+    <Abrasive.degreeDatas.0.description>NAME always says exactly what's on HIS mind, especially if it's bugging HIM. That tends to rub people the wrong way.</Abrasive.degreeDatas.0.description>
+    
+    <TooSmart.degreeDatas.0.label>too smart</TooSmart.degreeDatas.0.label>
+    <TooSmart.degreeDatas.0.description>NAME is too smart for HIS own good. HECAP learns everything much faster than everyone, but can be quite eccentric.</TooSmart.degreeDatas.0.description>
+    
+    <Brawler.degreeDatas.0.label>brawler</Brawler.degreeDatas.0.label>
+    <Brawler.degreeDatas.0.description>NAME likes to fight up close and personal. HISCAP accuracy is greatly increased in melee combat, but HE'll be very unhappy if asked to carry a ranged weapon.</Brawler.degreeDatas.0.description>
+    
+    <Masochist.degreeDatas.0.label>masochist</Masochist.degreeDatas.0.label>
+    <Masochist.degreeDatas.0.description>For NAME, there's something exciting about getting hurt. HECAP doesn't know why, HE's just wired differently.</Masochist.degreeDatas.0.description>
+    
+    <Prosthophile.degreeDatas.0.label>Prosthophile</Prosthophile.degreeDatas.0.label>
+    <Prosthophile.degreeDatas.0.description>NAME feels limited in HIS feeble human body. HECAP often dreams of going bionic.</Prosthophile.degreeDatas.0.description>
+    
+    <Prosthophobe.degreeDatas.0.label>Prosthophobe</Prosthophobe.degreeDatas.0.label>
+    <Prosthophobe.degreeDatas.0.description>NAME believes the human body is limited for a reason. To HIM, bionic body parts are unethical.</Prosthophobe.degreeDatas.0.description>
+    
+    <GreenThumb.degreeDatas.0.label>green thumb</GreenThumb.degreeDatas.0.label>
+    <GreenThumb.degreeDatas.0.description>NAME has a passion for gardening. HECAP gets a mood bonus for every plant HE sows.</GreenThumb.degreeDatas.0.description>
+    
+    <NightOwl.degreeDatas.0.label>night owl</NightOwl.degreeDatas.0.label>
+    <NightOwl.degreeDatas.0.description>NAME likes to work at night. HECAP gets a mood bonus if awake at night and mood loss if awake during the day.</NightOwl.degreeDatas.0.description>
+    
+    <Greedy.degreeDatas.0.label>greedy</Greedy.degreeDatas.0.label>
+    <Greedy.degreeDatas.0.description>NAME needs a really impressive bedroom. HECAP gets a mood loss if HE doesn't get what HE wants.</Greedy.degreeDatas.0.description>
+    
+    <Jealous.degreeDatas.0.label>jealous</Jealous.degreeDatas.0.label>
+    <Jealous.degreeDatas.0.description>For NAME, it's degrading to have a less impressive bedroom than someone else. HECAP gets a mood loss if any colonist has a more impressive bedroom.</Jealous.degreeDatas.0.description>
+    
+    <Ascetic.degreeDatas.0.label>ascetic</Ascetic.degreeDatas.0.label>
+    <Ascetic.degreeDatas.0.description>NAME prefers to live in asceticism. HECAP gets a mood loss if HE has a bedroom that's too impressive.</Ascetic.degreeDatas.0.description>
+    
+    <Gay.degreeDatas.0.label>gay</Gay.degreeDatas.0.label>
+    <Gay.degreeDatas.0.description>NAME is romantically attracted to people of HIS own gender.</Gay.degreeDatas.0.description>
+    
+    <DislikesMen.degreeDatas.0.label>dislikes men</DislikesMen.degreeDatas.0.label>
+    <DislikesMen.degreeDatas.0.description>NAME really dislikes and distrusts men.</DislikesMen.degreeDatas.0.description>
+    
+    <DislikesWomen.degreeDatas.0.label>dislikes women</DislikesWomen.degreeDatas.0.label>
+    <DislikesWomen.degreeDatas.0.description>NAME really dislikes and distrusts women.</DislikesWomen.degreeDatas.0.description>
+    
 </LanguageData>

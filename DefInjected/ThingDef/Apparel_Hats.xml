@@ -1,16 +1,22 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-    <Apparel_CowboyHat.label>chapéu cowboy</Apparel_CowboyHat.label>
-    <Apparel_CowboyHat.description>Estiloso porém resistente, este chapéu protege do sol e da chuva - e dá a quem o usa um charme extra. É a peça mais importante da roupa tradicional do faroeste.</Apparel_CowboyHat.description>
+    <Apparel_CowboyHat.label>cowboy hat</Apparel_CowboyHat.label>
+    <Apparel_CowboyHat.description>Stylish yet rugged, this hat keeps the sun and rain off - and it gives anyone who wears it a bit of extra charm. It is the most important part of traditional western attire.</Apparel_CowboyHat.description>
     
-    <Apparel_PowerArmorHelmet.label>capacete da armadura fortificada</Apparel_PowerArmorHelmet.label>
-    <Apparel_PowerArmorHelmet.description>Parte do conjunto da armadura fortificada, usado principalmente por infantaria.</Apparel_PowerArmorHelmet.description>
+    <Apparel_Tuque.label>tuque</Apparel_Tuque.label>
+    <Apparel_Tuque.description>A soft, thick cap. Great for keeping warm in winter.</Apparel_Tuque.description>
     
-    <Apparel_KevlarHelmet.label>capacete kevlar</Apparel_KevlarHelmet.label>
-    <Apparel_KevlarHelmet.description>Peça essencial na de armadura pessoal. Usado para ajudar a absorber a explosão de uma granada.</Apparel_KevlarHelmet.description>
+    <Apparel_PowerArmorHelmet.label>power armor helmet</Apparel_PowerArmorHelmet.label>
+    <Apparel_PowerArmorHelmet.description>A part of power armor set, mostly used by heavy infantry.</Apparel_PowerArmorHelmet.description>
     
-    <Apparel_MilitaryHelmet.label>capacete militar</Apparel_MilitaryHelmet.label>
-    <Apparel_MilitaryHelmet.description>Com um ar antigo e pesado, mas muito útil durante ataques inimigos. Usado principalmente para proteger de projectéis de baixa velocidade.</Apparel_MilitaryHelmet.description>
+    <Apparel_KevlarHelmet.label>kevlar helmet</Apparel_KevlarHelmet.label>
+    <Apparel_KevlarHelmet.description>A lightweight combat helmet.</Apparel_KevlarHelmet.description>
+    
+    <Apparel_MilitaryHelmet.label>military helmet</Apparel_MilitaryHelmet.label>
+    <Apparel_MilitaryHelmet.description>Old-looking and heavy, but effective. Protects against low-velocity projectiles, shrapnel, falling debris, and cuts to the head.</Apparel_MilitaryHelmet.description>
+    
+    <Apparel_PsychicFoilHelmet.label>psychic foil helmet</Apparel_PsychicFoilHelmet.label>
+    <Apparel_PsychicFoilHelmet.description>A thin helmet containing finely-tuned sheets of psychically-absorptive foil. Reduces the impact of psychic events.</Apparel_PsychicFoilHelmet.description>
     
 </LanguageData>

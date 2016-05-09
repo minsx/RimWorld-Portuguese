@@ -1,18 +1,15 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-    <!-- Psychic drone -->
-    
-    <PsychicDroneLow.label>drone psíquico (fraco)</PsychicDroneLow.label>
-    <PsychicDroneLow.description>Parece que está a arranhar a minha mente. Uma voz, a sussurrar. Só consigo perceber algumas palavras, e não estou a gostar do que oiço.</PsychicDroneLow.description>
-    
-    <PsychicDroneMedium.label>drone psíquico (médio)</PsychicDroneMedium.label>
-    <PsychicDroneMedium.description>Parece que alguém está ao virar da esquina, a falar para mim. A voz muda mas a mensagem não. É para eu magoar pessoas. Faz ela ir embora!</PsychicDroneMedium.description>
-    
-    <PsychicDroneHigh.label>drone psíquico (elevado)</PsychicDroneHigh.label>
-    <PsychicDroneHigh.description>A voz está insuportavelmente alta. É difícil concentrar-me. Às vezes respondo à voz, berrando-lhe. Mas ela continua a gritar!</PsychicDroneHigh.description>
-    
-    <PsychicDroneExtreme.label>drone psíquico (extremo)</PsychicDroneExtreme.label>
-    <PsychicDroneExtreme.description>O meu coração bate rápido e estou a suar. Só consigo pensar em magoar e causar sofrimento e em todos estes inimigos à minha volta. São o meu pesadelo, o meu pesadelo, o meu pesadelo...</PsychicDroneExtreme.description>
+    <PsychicDrone.stages.0.label>psychic soothe (medium)</PsychicDrone.stages.0.label>
+    <PsychicDrone.stages.0.description>It's like a calming voice at the back of my mind, soothing me, settling my nerves.</PsychicDrone.stages.0.description>
+    <PsychicDrone.stages.1.label>psychic drone (low)</PsychicDrone.stages.1.label>
+    <PsychicDrone.stages.1.description>It's like a scratching at the back of my mind. A voice, whispering. I can only make out a few words, and I don't like them.</PsychicDrone.stages.1.description>
+    <PsychicDrone.stages.2.label>psychic drone (medium)</PsychicDrone.stages.2.label>
+    <PsychicDrone.stages.2.description>I feel like someone is always just out of sight, speaking to me. The voice changes but the message doesn't. I'm supposed to hurt people. Make it go away!</PsychicDrone.stages.2.description>
+    <PsychicDrone.stages.3.label>psychic drone (high)</PsychicDrone.stages.3.label>
+    <PsychicDrone.stages.3.description>The voice is unbearably loud. It's hard to concentrate. I find myself talking back to it, yelling at it. But it just keeps shouting!</PsychicDrone.stages.3.description>
+    <PsychicDrone.stages.4.label>psychic drone (extreme)</PsychicDrone.stages.4.label>
+    <PsychicDrone.stages.4.description>My heart pounds and I'm sweating. All I can think of is hurting and suffering and all these enemies around me. They're my nightmare, my nightmare, my nightmare...</PsychicDrone.stages.4.description>
     
 </LanguageData>

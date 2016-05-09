@@ -1,26 +1,37 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-    <!--=========================== Crops ==============================-->
+    <PlantPotato.label>potato plant</PlantPotato.label>
+    <PlantPotato.description>A simple, highly nutritious tuber. Grows well even in somewhat poor soil. Harvests quickly. A strong, versatile crop.</PlantPotato.description>
     
-    <PlantPotato.label>planta de batata</PlantPotato.label>
-    <PlantPotato.description>Um tubérculo simples e altamente nutritivo. Cresce bem em solos relativamente pobres.</PlantPotato.description>
+    <PlantCorn.label>corn plant</PlantCorn.label>
+    <PlantCorn.description>A large grain plant which produces ears of delicious yellow seeds. Takes a relatively long time to grow, but yields lots of food, takes a long time to spoil, and can be happily eaten raw. Needs fertile soil to grow well.</PlantCorn.description>
     
-    <PlantStrawberry.label>morangueiro</PlantStrawberry.label>
-    <PlantStrawberry.description>Uma fruta frágil, mas saborosa. Deliciosa mesmo quando crua.</PlantStrawberry.description>
+    <PlantRice.label>rice plant</PlantRice.label>
+    <PlantRice.description>A low grain plant that thrives in rich soil and yields food fast, but is not nice to eat uncooked.</PlantRice.description>
     
-    <PlantCotton.label>algodoeiro</PlantCotton.label>
-    <PlantCotton.description>Produz algodão, uma fibra fina usada para fazer roupa.</PlantCotton.description>
+    <PlantHaygrass.label>haygrass</PlantHaygrass.label>
+    <PlantHaygrass.description>A mixture of nutrient-rich grasses which yield large amounts of hay. Hay is edible for animals, but not humans.</PlantHaygrass.description>
     
-    <PlantDevilstrand.label>fio do diabo</PlantDevilstrand.label>
-    <PlantDevilstrand.description>Este frágil cogumelo foi alterado geneticamente para produzir uma rede de seda da maior qualidade.  Dizem que tem propriedades místicas, e o seu nome vem da ganância que causa nas pessoas.</PlantDevilstrand.description>
+    <PlantStrawberry.label>strawberry plant</PlantStrawberry.label>
+    <PlantStrawberry.description>A fragile but tasty fruit. Delicious even when raw.</PlantStrawberry.description>
     
-    <!--=========================== Decorative ==============================-->
+    <PlantCotton.label>cotton plant</PlantCotton.label>
+    <PlantCotton.description>Yields cotton, a fine plant fiber used to make cloth.</PlantCotton.description>
     
-    <PlantRose.label>rosa</PlantRose.label>
-    <PlantRose.description>Uma bela flor cultivada.</PlantRose.description>
+    <PlantDevilstrand.label>devilstrand</PlantDevilstrand.label>
+    <PlantDevilstrand.description>This fragile mushroom was genetically engineered to produce a silk net of the highest grade. Long rumored to have mystical properties, it owes its name to the greed it inspires in people.</PlantDevilstrand.description>
     
-    <PlantDaylily.label>lírio-de-um-dia</PlantDaylily.label>
-    <PlantDaylily.description>Uma bela flor cultivada.</PlantDaylily.description>
+    <PlantHealroot.label>healroot</PlantHealroot.label>
+    <PlantHealroot.description>A slow-growing plant which yields herbal medicine when harvested.\n\nHealroot was selectively bred for centuries by settlers. It is sometimes also called "healer's hand" by tribespeople - a nickname it owes to its five major medicinal virtues.</PlantHealroot.description>
+    
+    <PlantHops.label>hop plant</PlantHops.label>
+    <PlantHops.description>A flowering plant that yields hops, and essential ingredient in beer.</PlantHops.description>
+    
+    <PlantRose.label>rose</PlantRose.label>
+    <PlantRose.description>A beautiful cultivated flower, symbolic of love and romance since ancient times.</PlantRose.description>
+    
+    <PlantDaylily.label>daylily</PlantDaylily.label>
+    <PlantDaylily.description>A beautiful cultivated flower - great for brightening up a drab yard. Must be replanted often.</PlantDaylily.description>
     
 </LanguageData>

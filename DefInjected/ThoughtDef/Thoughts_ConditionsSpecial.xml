@@ -1,40 +1,28 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-    <Imprisoned.label>preso</Imprisoned.label>
-    <Imprisoned.description>Detesto estar trancado.</Imprisoned.description>
+    <Imprisoned.stages.0.label>imprisoned</Imprisoned.stages.0.label>
+    <Imprisoned.stages.0.description>I hate being locked up.</Imprisoned.stages.0.description>
     
-    <SharedBedroom.label>partilhar quarto</SharedBedroom.label>
-    <SharedBedroom.description>Partilhar um quarto com outros é irritante. Quero alguma privacidade. </SharedBedroom.description>
+    <SharedBedroom.stages.0.label>shared bedroom</SharedBedroom.stages.0.label>
+    <SharedBedroom.stages.0.description>Sharing a room with others is annoying. I want some privacy.</SharedBedroom.stages.0.description>
     
-    <ColonistLeftUnburied.label>colono não enterrado</ColonistLeftUnburied.label>
-    <ColonistLeftUnburied.description>Um de nós morreu e deixá-mo-lo no chão ao ar livre. Ninguém deveria ser deixado assim. As pessoas merecem um enterro decente.</ColonistLeftUnburied.description>
+    <SharedBed.stages.0.label>sharing bed</SharedBed.stages.0.label>
+    <SharedBed.stages.0.description>I have to share a bed with someone who I don't particularly want to.</SharedBed.stages.0.description>
     
-    <HappyNude.label>alegremente sem roupa</HappyNude.label>
-    <HappyNude.description>Estou sem roupa e estou a adorar! Sintom-me tão livre e sem constrangimento em contacto com o ambiente!</HappyNude.description>
+    <ColonistLeftUnburied.stages.0.label>colonist left unburied</ColonistLeftUnburied.stages.0.label>
+    <ColonistLeftUnburied.stages.0.description>One of us died and we're just leaving them lying in the open. Nobody should be left like that. People deserve a decent burial.</ColonistLeftUnburied.stages.0.description>
     
-    <Naked.label>sem roupa</Naked.label>
-    <Naked.description>Estou sem roupa. É humilhante.</Naked.description>
+    <Naked.stages.0.label>naked</Naked.stages.0.label>
+    <Naked.stages.0.description>I'm naked. This is humiliating.</Naked.stages.0.description>
     
-    <MasochistLittlePain.label>com dor leve</MasochistLittlePain.label>
-    <MasochistLittlePain.description>Ow... Heh heh heh... Podia-me habituar a isto!</MasochistLittlePain.description>
-    
-    <MasochistMediumPain.label>com dor moderada</MasochistMediumPain.label>
-    <MasochistMediumPain.description>Ughhh... Dói, mas eu adoro! Não parem!</MasochistMediumPain.description>
-    
-    <MasochistSeverePain.label>com dor aguda</MasochistSeverePain.label>
-    <MasochistSeverePain.description>Ouch... Acho que quebrei algum osso... Mas que sensação exceleten!</MasochistSeverePain.description>
-    
-    <MasochistInShock.label>em choque da dor excepcional</MasochistInShock.label>
-    <MasochistInShock.description>Ahhh... Estou no paraíso?</MasochistInShock.description>
-    
-    <ProsthophileHappy.label>tem parte biónica</ProsthophileHappy.label>
-    <ProsthophileHappy.description>Sou um produto da tecnologia moderna! Posso fazer tudo muito melhor!</ProsthophileHappy.description>
-    
-    <ProsthophobeUnhappy.label>tem parte biónia</ProsthophobeUnhappy.label>
-    <ProsthophobeUnhappy.description>Eles tornaram-me numa abominação tecnológica... Se ao menos me tivessem dado a escolher...</ProsthophobeUnhappy.description>
-    
-    <BrawlerUnhappy.label>lutador tem arma de fogo</BrawlerUnhappy.label>
-    <BrawlerUnhappy.description>Gah! Detesto disparar à distância. Quero chegar perto e pessoal!</BrawlerUnhappy.description>
+    <Pain.stages.0.label>in a little pain</Pain.stages.0.label>
+    <Pain.stages.0.description>Ow... That hurts.</Pain.stages.0.description>
+    <Pain.stages.1.label>in a moderate amount of pain</Pain.stages.1.label>
+    <Pain.stages.1.description>Ughhh... When will it end?</Pain.stages.1.description>
+    <Pain.stages.2.label>experiencing acute pain</Pain.stages.2.label>
+    <Pain.stages.2.description>Make it stop... make it stop... make it stop...</Pain.stages.2.description>
+    <Pain.stages.3.label>in shock from exceptional pain</Pain.stages.3.label>
+    <Pain.stages.3.description>AAAAAHHH! Kill me now!</Pain.stages.3.description>
     
 </LanguageData>

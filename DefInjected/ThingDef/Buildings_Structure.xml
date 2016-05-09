@@ -1,22 +1,13 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
-	
-    <!--========================= Doors =============================-->
-	
-	<Door.label>Porta</Door.label>
-	<Door.description>Divide salas/quartos. Devem ser manualmente fechadas e abertas, atrasando as pessoas.</Door.description>
-	
-	<Autodoor.label>Porta automática</Autodoor.label>
-	<Autodoor.description>Divide salas/quartos. Portas automáticas permitem que as pessoas as usem sem perder velocidade a velocidade.</Autodoor.description>
-	
-    <!--========================= Walls =============================-->
-	
-	<Wall.label>Parede</Wall.label>
-	<Wall.description>Uma parede intransitável. Capaz de aguentar com um telhado</Wall.description>
-	
-	<Wallconduit.label>Parede conduta</Wallconduit.label>
-	<Wallconduit.description>Uma parede com transmissão de energia integrada.</Wallconduit.description>
-	
-	
-
+    
+    <Door.label>door</Door.label>
+    <Door.description>Divides rooms. Must be manually opened and closed, which slows people down.</Door.description>
+    
+    <Autodoor.label>autodoor</Autodoor.label>
+    <Autodoor.description>Divides rooms. Powered operation allows people to move through the door without slowing down.</Autodoor.description>
+    
+    <Wall.label>wall</Wall.label>
+    <Wall.description>An impassable wall. Capable of holding up a roof.</Wall.description>
+    
 </LanguageData>
