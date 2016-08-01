@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-    <TileSandstone.label>sandstone tile</TileSandstone.label>
-    <TileSandstone.description>Solid stone tiles for a castle feeling. Pretty to look at, but they take a long time to lay.</TileSandstone.description>
+    <TileSandstone.label>telha de arenito</TileSandstone.label>
+    <TileSandstone.description>Telhas sólidas de pedra. Bonitas de se olhar, mas elas levam um longo tempo para colocar.</TileSandstone.description>
     
-    <TileGranite.label>granite tile</TileGranite.label>
-    <TileGranite.description>Solid stone tiles for a castle feeling. Pretty to look at, but they take a long time to lay.</TileGranite.description>
+    <TileGranite.label>telha de granito</TileGranite.label>
+    <TileGranite.description>Telhas sólidas de pedra. Bonitas de se olhar, mas elas levam um longo tempo para colocar.</TileGranite.description>
     
-    <TileLimestone.label>limestone tile</TileLimestone.label>
-    <TileLimestone.description>Solid stone tiles for a castle feeling. Pretty to look at, but they take a long time to lay.</TileLimestone.description>
+    <TileLimestone.label>telha de calcário</TileLimestone.label>
+    <TileLimestone.description>Telhas sólidas de pedra. Bonitas de se olhar, mas elas levam um longo tempo para colocar.</TileLimestone.description>
     
-    <TileSlate.label>slate tile</TileSlate.label>
-    <TileSlate.description>Solid stone tiles for a castle feeling. Pretty to look at, but they take a long time to lay.</TileSlate.description>
+    <TileSlate.label>telha de ardósia</TileSlate.label>
+    <TileSlate.description>Telhas sólidas de pedra. Bonitas de se olhar, mas elas levam um longo tempo para colocar.</TileSlate.description>
     
-    <TileMarble.label>marble tile</TileMarble.label>
-    <TileMarble.description>Solid stone tiles for a castle feeling. Pretty to look at, but they take a long time to lay.</TileMarble.description>
+    <TileMarble.label>telha de mármore</TileMarble.label>
+    <TileMarble.description>Telhas sólidas de pedra. Bonitas de se olhar, mas elas levam um longo tempo para colocar.</TileMarble.description>
     
 </LanguageData>
