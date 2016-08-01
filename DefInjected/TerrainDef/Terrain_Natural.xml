@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-    <Sand.label>sand</Sand.label>
+    <Sand.label>areia</Sand.label>
     
-    <Soil.label>soil</Soil.label>
+    <Soil.label>solo</Soil.label>
     
-    <MarshyTerrain.label>marshy soil</MarshyTerrain.label>
+    <MarshyTerrain.label>solo pantanoso</MarshyTerrain.label>
     
-    <SoilRich.label>rich soil</SoilRich.label>
+    <SoilRich.label>solo fértil</SoilRich.label>
     
-    <Mud.label>mud</Mud.label>
+    <Mud.label>lama</Mud.label>
     
-    <Marsh.label>marsh</Marsh.label>
+    <Marsh.label>pântano</Marsh.label>
     
-    <Gravel.label>gravel</Gravel.label>
+    <Gravel.label>cascalho</Gravel.label>
     
-    <MossyTerrain.label>lichen-covered dirt</MossyTerrain.label>
+    <MossyTerrain.label>terra coberta de limo</MossyTerrain.label>
     
-    <Ice.label>Ice</Ice.label>
+    <Ice.label>Gelo</Ice.label>
     
 </LanguageData>
