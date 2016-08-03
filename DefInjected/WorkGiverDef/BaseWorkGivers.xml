@@ -4,11 +4,11 @@
 	<DoctorFeed.verb>alimentar</DoctorFeed.verb>
 	<DoctorFeed.gerund>alimentando</DoctorFeed.gerund>
 	
-	<DoctorEmergencyHeal.verb>curar</DoctorEmergencyHeal.verb>
-    <DoctorEmergencyHeal.gerund>a curar</DoctorEmergencyHeal.gerund>
+	<DoctorEmergencyHeal.verb>socorrer</DoctorEmergencyHeal.verb>
+    <DoctorEmergencyHeal.gerund>socorrendo</DoctorEmergencyHeal.gerund>
     
     <DoctorHeal.verb>curar</DoctorHeal.verb>
-    <DoctorHeal.gerund>a curar</DoctorHeal.gerund>
+    <DoctorHeal.gerund>curando</DoctorHeal.gerund>
 	
 	<GrowerSow.verb>semear</GrowerSow.verb>
 	<GrowerSow.gerund>semeando</GrowerSow.gerund>
@@ -16,8 +16,8 @@
 	<GrowerHarvest.verb>cultivar</GrowerHarvest.verb>
 	<GrowerHarvest.gerund>cultivando</GrowerHarvest.gerund>
 	
-	<Mine.verb>minar</Mine.verb>
-	<Mine.gerund>minando</Mine.gerund>
+	<Mine.verb>minerar</Mine.verb>
+	<Mine.gerund>minerando</Mine.gerund>
 	
 	<Research.verb>pesquisar</Research.verb>
 	<Research.gerund>pesquisando</Research.gerund>
