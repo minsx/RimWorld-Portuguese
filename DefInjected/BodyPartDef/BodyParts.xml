@@ -23,8 +23,8 @@
 	<Pelvis.label>Bacia</Pelvis.label>
 	<LeftFemur.label>Fémur esquerdo</LeftFemur.label>
 	<RightFemur.label>Fémur direito</RightFemur.label>
-	<LeftTibia.label>Tibia esquerda</LeftTibia.label>
-	<RightTibia.label>Tibia direita</RightTibia.label>
+	<LeftTibia.label>Tíbia esquerda</LeftTibia.label>
+	<RightTibia.label>Tíbia direita</RightTibia.label>
 	<Heart.label>Coração</Heart.label>
 	<LeftLung.label>Pulmão esquerdo</LeftLung.label>
 	<RightLung.label>Pulmão direito</RightLung.label>
@@ -51,18 +51,17 @@
 	<RightHandThumb.label>Polegar direito</RightHandThumb.label>
 	<LeftLeg.label>Perna esquerda</LeftLeg.label>
 	<LeftFoot.label>Pé esquerdo</LeftFoot.label>
-	<LeftFootLittleToe.label>Dedinho do pé esquerdo</LeftFootLittleToe.label>
+	<LeftFootLittleToe.label>Quino dedo do pé esquerdo</LeftFootLittleToe.label>
 	<LeftFootFourthToe.label>Quarto dedo do pé esquerdo</LeftFootFourthToe.label>
 	<LeftFootMiddleToe.label>Terceiro dedo do pé esquerdo</LeftFootMiddleToe.label>
 	<LeftFootSecondToe.label>Segundo dedo do pé esquerdo</LeftFootSecondToe.label>
-	<LeftFootBigToe.label>Dedão do pé esquerdo</LeftFootBigToe.label>
+	<LeftFootBigToe.label>Primeiro dedo do pé esquerdo</LeftFootBigToe.label>
 	<RightLeg.label>Perna direita</RightLeg.label>
 	<RightFoot.label>Pé direito</RightFoot.label>
-	<RightFootLittleToe.label>Dedinho do pé direito</RightFootLittleToe.label>
-	<RightFootFourthToe.label>Quarto dedo do pé direito</RightFootFourthToe.label>
-	<RightFootMiddleToe.label>Terceiro dedo do pé direito</RightFootMiddleToe.label>
-	<RightFootSecondToe.label>Segundo dedo do pé direito</RightFootSecondToe.label>
-	<RightFootBigToe.label>Dedão do pé direito</RightFootBigToe.label>
+	<RightFootLittleToe.label>Quinto dedo do pé direito</RightFootLittleToe.label>
+	<RightFootFourthToe.label>quarto dedo do pé direito</RightFootFourthToe.label>
+	<RightFootMiddleToe.label>Terceiro dedo do pé direito</RightFootSecondToe.label>
+	<RightFootBigToe.label>Primeiro dedo do pé direito</RightFootBigToe.label>
   
   <!-- animal -->
 	
